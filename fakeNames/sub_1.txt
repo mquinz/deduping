@@ -1,0 +1,1000 @@
+﻿Number|GivenName|Surname|StreetAddress|City|State|ZipCode|EmailAddress|TelephoneNumber|Latitude|Longitude|NationalID
+1|Debbie|Lopez|2167 Kemper Lane|Morgan|UT|84050|DebbieELopez@teleworm.us|801-845-8240|41.010694|-111.742411|647-09-2661
+2|Walter|Quezada|410 Yorkie Lane|Savannah|GA|31401|WalterLQuezada@gustr.com|912-916-5323|32.0456|-81.09714|671-24-0561
+3|Jennifer|Blackford|659 Davis Court|Cobden|IL|62920|JenniferJBlackford@superrito.com|618-893-4452|37.551299|-89.209604|342-12-4482
+4|Clayton|Trinh|3384 Heather Sees Way|Vian|OK|74962|ClaytonCTrinh@rhyta.com|918-773-4582|35.502795|-94.892898|442-14-2858
+5|Sherry|Guzman|1113 Rogers Street|Cincinnati|OH|45202|SherryDGuzman@fleckens.hu|513-502-8388|39.017489|-84.531978|268-22-1570
+6|Kevin|Bernstein|2212 Travis Street|West Palm Beach|FL|33410|KevinJBernstein@armyspy.com|772-528-4951|26.668688|-80.167831|267-69-5713
+7|Monroe|Sanders|268 Ward Road|White Plains|NY|10601|MonroeESanders@teleworm.us|914-955-8836|40.941122|-73.703053|121-70-9440
+8|Kelli|Nelson|3654 Rafe Lane|Jackson|MS|39211|KelliFNelson@armyspy.com|662-729-5610|32.34105|-90.135209|427-57-5248
+9|Barrett|Matthews|3917 Clearview Drive|Brighton|CO|80601|BarrettNMatthews@cuvox.de|303-654-8349|40.000445|-104.723368|651-14-7680
+10|Gary|Silverstein|603 Kuhl Avenue|Norcross|GA|30071|GaryNSilverstein@armyspy.com|678-728-8671|33.904924|-84.299778|674-03-3190
+11|Brian|Person|3502 Jarvisville Road|Huntington|NY|11743|BrianBPerson@cuvox.de|516-953-2859|40.846571|-73.511903|103-12-5328
+12|Saundra|Walters|3594 West Fork Drive|Fort Lauderdale|FL|33308|SaundraJWalters@armyspy.com|954-413-6563|26.277034|-80.13319|261-33-2270
+13|Annette|Archuleta|4382 Musgrave Street|Oklahoma City|OK|73102|AnnetteMArchuleta@superrito.com|405-253-4136|35.525781|-97.541731|442-96-7041
+14|Frances|Wright|398 Coleman Avenue|North Edwards|CA|93523|FrancesMWright@teleworm.us|760-769-1931|35.013051|-117.762476|560-58-5462
+15|Jeremy|Collins|4523 University Street|Seattle|WA|98106|JeremyWCollins@jourrapide.com|206-399-9597|47.458019|-122.439216|532-42-1103
+16|Richard|Lux|3417 Horseshoe Lane|Philadelphia|PA|19108|RichardSLux@dayrep.com|484-380-4021|40.013646|-75.070115|178-16-9903
+17|Zona|Hamm|2280 Public Works Drive|Chattanooga|TN|37421|ZonaTHamm@superrito.com|423-285-1761|35.019633|-85.063328|415-90-8347
+18|Fernando|Rodriguez|2997 Seneca Drive|Portland|OR|97214|FernandoVRodriguez@cuvox.de|503-963-1972|45.523661|-122.689628|540-07-6368
+19|Jayme|Hunter|4008 Selah Way|South Burlington|VT|05403|JaymeMHunter@superrito.com|802-558-2525|44.477417|-73.247285|009-48-8440
+20|Kenneth|Exley|405 Goldleaf Lane|Wyckoff|NJ|07481|KennethCExley@jourrapide.com|201-560-1005|40.923746|-74.130566|151-86-7618
+21|Matt|Childs|1699 Peaceful Lane|Cleveland|OH|44109|MattBChilds@fleckens.hu|216-459-6110|41.366462|-81.772339|298-07-4396
+22|Carmen|Burden|2445 Stanton Hollow Road|Cambridge|MA|02141|CarmenTBurden@gustr.com|781-517-0702|42.289474|-71.113049|034-42-0782
+23|Mark|Lacey|4680 Red Dog Road|Charlotte|NC|28219|MarkKLacey@dayrep.com|704-359-8251|35.232274|-80.807203|238-81-5273
+24|Tracy|Boyd|2039 Ashton Lane|Austin|TX|78701|TracyDBoyd@superrito.com|512-555-4660|30.293289|-97.737168|627-62-6059
+25|Hector|Hess|664 Caldwell Road|Fairport|NY|14450|HectorJHess@jourrapide.com|585-223-0873|43.127723|-77.363232|068-86-6356
+26|Dorothy|Braswell|2578 Red Bud Lane|Teterboro|NJ|07608|DorothyJBraswell@superrito.com|862-202-5402|40.892042|-74.118759|155-09-0347
+27|Rebecca|Garcia|4875 Kyle Street|Cedar Rapids|NE|68627|RebeccaDGarcia@rhyta.com|308-396-4353|41.598858|-98.159676|505-86-1306
+28|Catherine|Schlueter|4958 Hog Camp Road|Chicago|IL|60631|CatherineMSchlueter@gustr.com|708-415-4055|42.097499|-87.904384|334-38-3094
+29|Marcia|Wilson|3971 Heather Sees Way|Sallisaw|OK|74955|MarciaSWilson@cuvox.de|918-776-2676|35.504574|-94.824564|446-15-1881
+30|Maria|Marsh|3135 Hannah Street|Franklin|NC|28734|MariaRMarsh@fleckens.hu|828-369-9094|35.194529|-83.437977|244-62-0194
+31|William|Rios|1527 Oliver Street|Fort Worth|TX|76147|WilliamJRios@superrito.com|817-267-8360|32.703386|-97.396656|466-49-5157
+32|Louise|Elliott|4637 Stutler Lane|Erie|PA|16501|LouiseOElliott@cuvox.de|814-452-8105|42.129474|-80.137698|211-01-9670
+33|Aida|Hernandez|4555 Selah Way|Randolph|VT|05060|AidaFHernandez@rhyta.com|802-728-6588|43.877198|-72.789435|009-68-9084
+34|Serena|Gorman|1466 Conference Center Way|Fredericksburg|VA|22401|SerenaPGorman@dayrep.com|571-209-5289|38.262518|-77.492517|695-03-1550
+35|Darren|Aranda|2414 Parrill Court|Portage|IN|46368|DarrenSAranda@armyspy.com|219-380-0475|41.530913|-87.209236|313-82-9134
+36|Emilio|Allen|4195 Moore Avenue|Fort Worth|TX|76104|EmilioLAllen@armyspy.com|817-797-0134|32.773588|-97.294657|452-76-3953
+37|John|Puryear|893 Deans Lane|New York|NY|10011|JohnCPuryear@dayrep.com|914-798-9886|40.680122|-74.101339|120-58-9083
+38|Patricia|Simon|3124 Locust View Drive|San Francisco|CA|94143|PatriciaJSimon@jourrapide.com|415-978-4694|37.789431|-122.503469|567-57-1619
+39|David|Craft|4985 Aaron Smith Drive|Loysville|PA|17047|DavidJCraft@cuvox.de|717-789-0663|40.362097|-77.356252|211-30-1240
+40|Lori|Bessey|653 Dogwood Road|Phoenix|AZ|85012|LoriABessey@armyspy.com|602-605-2533|33.569177|-112.027669|527-40-8259
+41|Leslie|Leal|2637 Bingamon Branch Road|Oak Brook|IL|60523|LeslieCLeal@rhyta.com|847-230-5840|41.769099|-87.970248|322-22-7545
+42|Adele|Byrd|3099 Lakeland Park Drive|Atlanta|GA|30354|AdeleSByrd@dayrep.com|770-648-9402|33.688523|-84.475944|259-75-4396
+43|Brandi|Mitchell|923 Mill Street|Anderson|SC|29621|BrandiCMitchell@cuvox.de|864-260-0133|34.399774|-82.60031|655-12-2574
+44|Robert|Davis|3177 Franklee Lane|Eagleville|PA|19403|RobertMDavis@gustr.com|484-620-8993|40.174567|-75.477441|190-76-4669
+45|Edward|Martin|888 Queens Lane|South Hill|VA|23970|EdwardDMartin@dayrep.com|434-774-1564|36.756898|-78.188944|693-03-5472
+46|Derek|Wagner|2163 Water Street|Oakland|CA|94612|DerekAWagner@dayrep.com|925-281-4086|37.749803|-122.273981|555-08-8837
+47|Tyler|Pino|1944 Aviation Way|Los Angeles|CA|90071|TylerCPino@dayrep.com|213-974-7412|33.958194|-118.180471|569-38-3158
+48|Catherine|Charboneau|2881 Hiney Road|Las Vegas|NV|89119|CatherineMCharboneau@fleckens.hu|702-204-4039|36.144759|-115.171946|530-99-9723
+49|Jessica|Smith|1 Sampson Street|Denver|CO|80239|JessicaGSmith@fleckens.hu|303-574-9268|39.719771|-104.919979|650-36-0382
+50|Lisa|Welsh|1612 Meadow Drive|Oklahoma City|OK|73109|LisaMWelsh@superrito.com|405-990-1197|35.367485|-97.594018|445-07-9759
+51|Kenny|Young|2010 Hillhaven Drive|Los Angeles|CA|90017|KennyBYoung@gustr.com|323-805-4841|33.9699|-118.222069|545-92-7958
+52|Sandra|Burgess|912 Coleman Avenue|Boron|CA|93516|SandraWBurgess@cuvox.de|760-762-1473|34.935189|-117.701652|561-08-2505
+53|Patricia|Jackson|4630 Thorn Street|Cheyenne|WY|82001|PatriciaGJackson@gustr.com|307-650-8270|41.020728|-104.828381|520-19-9498
+54|Rhonda|Jackson|1146 Barfield Lane|Indianapolis|IN|46268|RhondaMJackson@einrot.com|317-529-7446|39.826917|-86.287324|311-78-0262
+55|Constance|Edmonds|1789 Byrd Lane|Albuquerque|NM|87102|ConstanceLEdmonds@jourrapide.com|505-246-8348|35.044192|-106.547796|649-32-8917
+56|Margaret|Root|3174 Oak Drive|Kattskill Bay|NY|12844|MargaretARoot@cuvox.de|518-656-4542|43.572095|-73.608976|110-03-1745
+57|Vincent|Robles|3242 Farland Avenue|San Antonio|TX|78217|VincentLRobles@einrot.com|830-476-1531|29.493167|-98.364737|635-96-7501
+58|Maribeth|Quiles|4991 Thorn Street|Cheyenne|WY|82003|MaribethJQuiles@gustr.com|307-690-5042|41.098742|-104.80152|520-96-0772
+59|Robert|Lopez|3770 Boone Street|Riviera|TX|78379|RobertALopez@einrot.com|361-296-8994|27.323392|-97.883293|627-18-5927
+60|Paul|Drake|3263 Masonic Hill Road|Little Rock|AR|72211|PaulADrake@teleworm.us|501-492-1944|34.655336|-92.392994|679-10-8522
+61|Jerome|Warriner|3766 Zimmerman Lane|Los Angeles|CA|90071|JeromeCWarriner@gustr.com|213-532-2154|34.13608|-118.327249|612-08-2155
+62|David|Tyler|4135 Abner Road|Owen|WI|54460|DavidSTyler@superrito.com|715-396-6965|44.903683|-90.50516|395-92-8414
+63|Randall|Lord|3536 Carolyns Circle|Irving|TX|75038|RandallYLord@armyspy.com|214-751-3168|32.851074|-97.065582|638-07-7039
+64|Mildred|Woo|4690 Tree Frog Lane|Kansas City|MO|64108|MildredCWoo@dayrep.com|816-517-7494|39.053617|-94.608295|487-92-0455
+65|Timothy|Murphy|2392 Newton Street|Saint Cloud|MN|56301|TimothyCMurphy@superrito.com|320-267-5399|45.585749|-94.22|473-41-7148
+66|Cynthia|Hoar|2550 Tree Top Lane|Camden|NJ|08102|CynthiaJHoar@gustr.com|609-980-2297|39.895681|-75.06553|149-08-5228
+67|Eric|Carter|2517 Roosevelt Street|San Francisco|CA|94108|EricHCarter@rhyta.com|415-420-4585|37.869143|-122.486878|547-12-1398
+68|Mark|Wright|4886 Modoc Alley|Pocatello|ID|83204|MarkMWright@cuvox.de|208-223-0698|42.776997|-112.537202|519-71-4309
+69|Anthony|Mutchler|3285 Nelm Street|Beltsville|VA|20705|AnthonyFMutchler@teleworm.us|571-241-1093|38.995969|-76.883774|698-01-8534
+70|Robert|Logan|1589 Emerson Road|Shreveport|LA|71107|RobertJLogan@gustr.com|318-689-6398|32.547832|-93.794798|433-12-0156
+71|Mable|Clark|2756 Godfrey Street|Estacada|OR|97023|MableCClark@dayrep.com|503-630-5329|45.150368|-121.998616|543-41-8885
+72|Jonathan|Siller|188 North Avenue|Lincoln|NE|68501|JonathanLSiller@jourrapide.com|402-802-2413|40.909846|-96.739483|506-09-4465
+73|Michael|Love|2639 Bombardier Way|Southfield|MI|48075|MichaelBLove@gustr.com|734-858-7305|42.563895|-83.176509|379-36-7479
+74|Weldon|Marlow|103 Briercliff Road|New York|NY|10001|WeldonJMarlow@dayrep.com|718-695-8471|40.736991|-73.982879|073-01-2770
+75|Armando|Gattis|3595 Drummond Street|East Orange|NJ|07017|ArmandoAGattis@einrot.com|973-266-5797|40.783821|-74.303951|147-54-8223
+76|Geraldine|Bryant|740 Oakridge Lane|Dallas|TX|75234|GeraldineFBryant@gustr.com|469-855-5428|32.909013|-96.797489|451-29-2457
+77|William|Vega|159 Railroad Street|Marquette|MI|49855|WilliamAVega@dayrep.com|906-228-6976|46.722603|-87.563154|362-46-2892
+78|Mertie|Fuller|1182 Radford Street|Louisville|KY|40205|MertieDFuller@einrot.com|502-272-1049|38.22125|-85.606811|400-42-9360
+79|Helen|Mori|497 Passaic Street|Washington|DC|20024|HelenAMori@dayrep.com|202-267-7299|38.968609|-77.007103|577-11-2417
+80|Norma|Rahman|4887 Johnson Street|Chapel Hill|NC|27514|NormaJRahman@armyspy.com|919-909-8687|36.058322|-79.104974|239-46-7816
+81|Krista|Spero|409 Rocky Road|Ambler|PA|19002|KristaSSpero@fleckens.hu|215-643-3564|40.222003|-75.269855|195-34-0566
+82|William|Suzuki|335 Renwick Drive|Portland|PA|97205|WilliamGSuzuki@rhyta.com|484-341-5220|45.467449|-122.709003|197-76-5587
+83|Wanda|Rodriguez|67 Jadewood Farms|Dover|NJ|07801|WandaCRodriguez@dayrep.com|973-366-5067|40.864992|-74.481853|142-13-6464
+84|Shawn|Rogers|2143 Boone Crockett Lane|Vancouver|WA|98663|ShawnMRogers@jourrapide.com|360-418-5712|45.662583|-122.644197|536-33-1579
+85|John|Flannigan|2921 Villa Drive|South Bend|IN|46601|JohnSFlannigan@fleckens.hu|574-340-7641|41.637191|-86.209819|315-26-4219
+86|Roberto|Chamorro|1649 Aspen Court|Boston|MA|02110|RobertoKChamorro@cuvox.de|617-336-2970|42.279876|-71.004459|031-76-9160
+87|Shanita|Burton|236 Rainbow Drive|North Canton|OH|44720|ShanitaSBurton@einrot.com|330-498-4410|40.873096|-81.483652|291-96-9960
+88|Denise|Sorrell|1110 Bubby Drive|Austin|TX|78701|DeniseJSorrell@gustr.com|512-404-4769|30.175116|-97.835087|633-84-6665
+89|Arturo|Gonzalez|1859 Godfrey Street|Portland|OR|97214|ArturoCGonzalez@superrito.com|503-555-2497|45.608558|-122.559175|542-47-5296
+90|Ethel|Powers|569 Lakewood Drive|Bayonne|NJ|07002|EthelAPowers@fleckens.hu|201-879-1006|40.576627|-74.145713|141-88-1152
+91|Larry|Fowler|3007 Aviation Way|Los Angeles|CA|90017|LarryDFowler@einrot.com|213-968-9655|34.009239|-118.179592|618-32-3009
+92|Hannah|Dixon|2806 Goldcliff Circle|Washington|DC|20005|HannahEDixon@jourrapide.com|202-614-7640|38.80772|-77.047333|577-66-0628
+93|Peter|Hopkins|2878 Highland View Drive|Elk Grove|CA|95624|PeterSHopkins@superrito.com|916-682-3005|38.382584|-121.399192|547-48-8902
+94|Geri|Basnight|3325 Lightning Point Drive|Memphis|TN|38110|GeriRBasnight@einrot.com|901-531-2906|35.174804|-90.042615|759-01-0988
+95|Peter|Johnson|1136 Holly Street|Big Canoe|GA|30151|PeterEJohnson@teleworm.us|706-268-6469|34.540992|-84.353106|675-28-4404
+96|Francisco|Young|3022 Perine Street|Washington|VA|20005|FranciscoSYoung@cuvox.de|703-788-5968|38.990311|-77.008802|231-24-2995
+97|Kristin|Rico|733 O Conner Street|Gulfport|MS|39501|KristinARico@dayrep.com|228-864-3270|30.320541|-89.044777|428-29-7400
+98|Karen|Gibson|2041 Wood Duck Drive|Iron Mountain|MI|49801|KarenLGibson@jourrapide.com|906-395-3687|45.897049|-87.96687|381-12-0349
+99|Nicholas|Lachance|3824 Lynch Street|San Francisco|CA|94107|NicholasJLachance@teleworm.us|925-235-2826|37.774517|-122.315657|571-62-3776
+100|Ramon|Ernst|2546 Sussex Court|Clifton|TX|76634|RamonCErnst@jourrapide.com|254-460-3382|31.859739|-97.591127|458-68-5189
+101|Heidi|Anderson|1655 Pratt Avenue|Orchards|WA|98662|HeidiTAnderson@cuvox.de|360-896-8444|45.710569|-122.609936|538-35-1564
+102|Aletha|Martel|417 New Creek Road|Birmingham|AL|35222|AlethaLMartel@armyspy.com|256-834-6862|33.515613|-86.787459|420-13-7164
+103|Mary|Crowder|379 Lakeland Terrace|Taylor|MI|48180|MaryJCrowder@dayrep.com|734-287-3933|42.197466|-83.284625|363-62-3748
+104|Robert|Slade|189 Pratt Avenue|Vancouver|WA|98662|RobertJSlade@fleckens.hu|360-852-6645|45.634752|-122.608871|537-82-4211
+105|Richard|Washington|3665 Wolf Pen Road|Redwood City|CA|94063|RichardLWashington@rhyta.com|650-367-0171|37.45455|-122.200296|602-94-9176
+106|Bonnie|Denning|1662 Hewes Avenue|Hanover|MD|21076|BonnieCDenning@superrito.com|443-629-0217|39.252351|-76.64833|216-18-2450
+107|Niki|Harris|2156 Daffodil Lane|Reston|VA|22090|NikiPHarris@dayrep.com|703-468-1124|39.027199|-77.254704|692-03-8767
+108|Audrey|Adamson|771 Coplin Avenue|Phoenix|AZ|85023|AudreyDAdamson@armyspy.com|602-467-8512|33.597093|-112.044816|764-05-6610
+109|Jeanette|Bisson|947 Twin Oaks Drive|Grand Rapids|MI|49503|JeanetteRBisson@gustr.com|231-457-9983|43.025457|-85.568806|363-86-8505
+110|Paul|Eubanks|1026 Polk Street|Florence|AZ|85232|PaulSEubanks@rhyta.com|520-866-6971|32.865475|-111.266175|601-04-9454
+111|Mary|Sawyer|336 Harry Place|Gastonia|NC|28052|MaryRSawyer@superrito.com|704-810-2343|35.216061|-81.338356|688-09-9918
+112|Molly|Saxon|4519 Happy Hollow Road|Jacksonville|NC|28540|MollyCSaxon@cuvox.de|910-560-0750|34.853737|-77.583109|687-01-0269
+113|Deborah|Garden|1153 Smith Road|Atlanta|GA|30339|DeborahRGarden@cuvox.de|770-970-7434|33.950408|-84.368945|257-28-5813
+114|Nicole|Smith|2122 Pine Tree Lane|Washington|MD|20005|NicoleJSmith@superrito.com|240-374-2029|38.949325|-76.989019|213-84-4703
+115|Patricia|Porter|822 Lodgeville Road|Minneapolis|MN|55402|PatriciaGPorter@einrot.com|612-307-5829|45.053903|-93.203634|474-13-2826
+116|Lillie|Lehman|1051 Hill Haven Drive|Killeen|TX|76541|LillieRLehman@fleckens.hu|254-238-2398|31.023319|-97.676992|635-88-9587
+117|Kenneth|King|654 Dovetail Estates|Clinton|OK|73601|KennethCKing@fleckens.hu|580-905-4700|35.522995|-98.962903|442-13-4255
+118|John|Dominy|1542 Ash Avenue|Saint Louis|MO|63146|JohnIDominy@superrito.com|314-902-7799|38.682291|-90.521386|498-72-8110
+119|Yvonne|Gallegos|671 Elkview Drive|Fort Lauderdale|FL|33301|YvonneDGallegos@superrito.com|772-257-1189|26.210733|-80.156769|263-23-0902
+120|David|Hodge|4588 Frum Street|Nashville|TN|37203|DavidPHodge@armyspy.com|615-322-9701|36.108895|-86.815373|415-48-4832
+121|Rudolph|Cottle|4903 Mulberry Avenue|Little Rock|AR|72211|RudolphDCottle@cuvox.de|501-373-9277|34.823963|-92.389606|677-07-8377
+122|Peggy|Hunt|3934 Tori Lane|Midvale|UT|84047|PeggyDHunt@dayrep.com|801-569-5942|40.629925|-111.952345|646-72-2119
+123|Donald|Brackman|4737 Jones Avenue|Winston Salem|NC|27101|DonaldSBrackman@cuvox.de|336-747-8748|36.203345|-80.186747|244-21-8475
+124|Brenda|Villegas|1315 Raintree Boulevard|Golden Valley|MN|55427|BrendaPVillegas@fleckens.hu|763-797-4631|44.921967|-93.317783|471-82-7305
+125|Jason|Hagan|4958 Washington Street|Corpus Christi|TX|78476|JasonGHagan@armyspy.com|361-305-3149|27.814255|-97.38012|449-09-9018
+126|Dorothy|Goetz|3465 Valley View Drive|Brookline|MA|02146|DorothyRGoetz@einrot.com|617-754-9947|42.319184|-71.076072|028-26-6294
+127|Manuel|Wright|3718 Raver Croft Drive|Elizabethton|TN|37643|ManuelRWright@cuvox.de|423-683-0269|36.442747|-82.116616|411-96-2833
+128|Pamela|Dockery|4187 Lochmere Lane|Hartford|CT|06103|PamelaRDockery@gustr.com|860-466-0082|41.855628|-72.576534|042-10-2981
+129|John|Neher|2033 Arrowood Drive|Jacksonville|FL|32216|JohnCNeher@gustr.com|904-504-6841|30.213035|-81.530005|263-42-4359
+130|Abby|Callahan|1577 Wexford Way|Aiken|SC|29801|AbbyWCallahan@dayrep.com|803-357-1881|33.503096|-81.746632|655-18-4380
+131|Candice|Vincent|157 Holt Street|West Palm Beach|FL|33401|CandiceRVincent@fleckens.hu|561-346-1936|26.626557|-80.029689|591-05-7483
+132|Raymond|Tews|1720 Gambler Lane|Houston|TX|77060|RaymondSTews@dayrep.com|281-875-4483|29.895277|-95.428407|630-92-3814
+133|Kenneth|Shields|1852 Mahlon Street|Cedar Knolls|NJ|07927|KennethRShields@dayrep.com|732-965-6207|40.772543|-74.484869|151-15-7015
+134|Charles|Mercer|2266 Barfield Lane|Indianapolis|IN|46218|CharlesEMercer@dayrep.com|317-544-6023|39.894322|-86.199279|315-54-8749
+135|Michael|Priester|2312 Ryder Avenue|Silver Lake (Snohomish)|WA|98208|MichaelPPriester@teleworm.us|425-316-6716|47.992606|-122.232899|535-19-2310
+136|Patricia|Baley|4554 Milford Street|Nashua|NH|03060|PatriciaTBaley@armyspy.com|603-706-8606|42.654615|-71.464602|003-64-4348
+137|Vicki|Bode|157 Hamill Avenue|San Diego|CA|92111|VickiTBode@rhyta.com|858-229-5917|32.725296|-117.103284|566-41-5502
+138|Beulah|Palacios|2173 Liberty Street|Plano|TX|75074|BeulahDPalacios@cuvox.de|214-807-7006|33.131677|-96.614372|639-78-7273
+139|Louise|Ford|1220 Kyle Street|Miller|NE|68858|LouiseMFord@gustr.com|308-457-7752|40.905787|-99.30186|507-22-5982
+140|Robert|Hsieh|1693 Formula Lane|Dallas|TX|75207|RobertKHsieh@armyspy.com|469-632-7737|32.711071|-96.845932|450-74-9390
+141|Gary|Garvey|4502 Willison Street|Crystal|MN|55429|GaryAGarvey@dayrep.com|763-257-5167|45.062669|-93.3281|472-02-5153
+142|Joanne|Reed|4959 Gerald L. Bates Drive|Cambridge|MA|02138|JoanneTReed@cuvox.de|617-768-9854|42.38684|-71.049768|022-76-8166
+143|Ann|Dean|3855 Anmoore Road|Brooklyn|NY|11234|AnnJDean@dayrep.com|718-763-0019|40.605315|-73.829578|102-07-5312
+144|Chris|Nguyen|1259 Central Avenue|New Brunswick|NJ|08901|ChrisJNguyen@superrito.com|201-374-9400|40.475112|-74.528628|140-11-1604
+145|Rita|Aguilar|3824 Farland Avenue|San Miguel|TX|78580|RitaAAguilar@armyspy.com|830-466-1491|28.429101|-98.586884|637-70-0738
+146|Floria|Davis|600 Jefferson Street|Newport News|VA|23603|FloriaPDavis@einrot.com|757-820-7477|37.161102|-76.495052|223-43-0916
+147|Preston|Dupre|735 Chandler Hollow Road|Pittsburgh|PA|15201|PrestonVDupre@gustr.com|412-425-9536|40.463007|-80.021794|184-40-2869
+148|Denise|Rossi|14 Lucy Lane|Seymour|IN|47274|DeniseJRossi@dayrep.com|812-528-1793|38.877769|-85.822355|316-86-4914
+149|Jack|Guffey|2191 Diane Street|Santa Barbara|CA|93101|JackGGuffey@einrot.com|805-448-8555|34.339851|-119.61072|620-41-1313
+150|Peter|Shoemaker|3094 Sycamore Street|San Jose|CA|95131|PeterCShoemaker@cuvox.de|408-943-5892|37.376731|-121.940476|567-47-7098
+151|Booker|Smith|1444 Kembery Drive|Chicago|IL|60605|BookerASmith@jourrapide.com|630-594-3057|41.80867|-87.67418|360-24-0278
+152|Henry|Worden|2309 Hart Street|Durham|CT|06422|HenryGWorden@einrot.com|860-349-2777|41.542036|-72.66466|043-18-9987
+153|Melissa|Gordon|3993 Watson Lane|Westhoff|TX|77994|MelissaNGordon@gustr.com|830-236-9276|29.200533|-97.414246|456-90-5870
+154|Frances|Clayton|2484 Clearview Drive|Englewood|CO|80112|FrancesTClayton@armyspy.com|303-662-7455|39.471826|-104.912955|650-34-7249
+155|Jason|Meisner|1276 Stone Lane|West Chester|PA|19382|JasonSMeisner@armyspy.com|610-344-0612|39.957216|-75.566508|159-10-4764
+156|Linda|Brill|2036 Rose Street|Westchester|IL|60154|LindaRBrill@rhyta.com|708-266-2926|41.809882|-87.949725|351-05-9612
+157|Nelda|Edwards|4934 Cantebury Drive|Long Island City|NY|11101|NeldaDEdwards@cuvox.de|646-695-1271|40.642419|-73.921199|067-52-1801
+158|Brenda|Davis|441 Murphy Court|Beaumont|CA|92223|BrendaRDavis@teleworm.us|951-845-9988|33.953967|-117.024856|551-14-9634
+159|Velma|La|1612 Twin House Lane|Raymondville|MO|65555|VelmaRLa@teleworm.us|417-457-1855|37.350785|-91.734983|499-38-2888
+160|Heather|Terry|149 Ben Street|North Greenbush|NY|12144|HeatherJTerry@fleckens.hu|518-225-0422|42.661056|-73.739093|129-68-0533
+161|Josephine|Weiss|1109 Chipmunk Lane|Warren|ME|04864|JosephineHWeiss@jourrapide.com|207-273-9535|44.082749|-69.247166|006-32-2172
+162|Rachel|Ashley|3805 Turnpike Drive|Birmingham|AL|35203|RachelBAshley@rhyta.com|256-365-9116|33.565325|-86.898344|424-49-5189
+163|Joseph|Crose|3884 Oak Lane|Kahoka|MO|63445|JosephACrose@rhyta.com|660-727-8327|40.462936|-91.709855|493-09-3073
+164|William|Hawkins|3424 Duff Avenue|White River Junction|VT|05001|WilliamDHawkins@armyspy.com|802-458-0457|43.674768|-72.487423|008-72-2875
+165|Nathaniel|Hill|4436 Adams Avenue|Frederick|MD|21701|NathanielLHill@einrot.com|301-663-6156|39.385775|-77.358361|213-02-3444
+166|Jackie|Lawrence|2571 Sycamore Street|Milpitas|CA|95035|JackieBLawrence@rhyta.com|408-935-5433|37.344906|-121.85346|563-90-1834
+167|Judy|Gravitt|582 Timbercrest Road|Hooper Bay|AK|99604|JudyRGravitt@cuvox.de|907-758-2084|61.614556|-165.745019|574-36-5555
+168|Theodore|Penson|3 East Avenue|Phoenix|AZ|85040|TheodoreNPenson@dayrep.com|480-343-8518|33.397075|-112.006575|600-12-9549
+169|Catherine|Pauley|3577 Sunrise Road|Henderson|NV|89014|CatherineJPauley@cuvox.de|702-944-3908|35.964802|-115.125488|530-04-9719
+170|Andrew|Kennell|1253 Ashton Lane|Austin|TX|78744|AndrewKKennell@dayrep.com|512-557-8813|30.275944|-97.790695|466-45-5977
+171|Michael|Delong|3365 Berry Street|Colorado Springs|CO|80903|MichaelADelong@superrito.com|719-636-3646|38.795259|-104.825826|522-64-6398
+172|Neil|Hanks|4419 Winding Way|Providence|RI|02903|NeilBHanks@einrot.com|401-661-9685|41.721225|-71.440615|037-60-9465
+173|Kimberly|Merkel|1117 Doctors Drive|Los Angeles|CA|90066|KimberlyJMerkel@fleckens.hu|310-398-9796|33.9059|-118.466631|559-10-2211
+174|Thomas|Perrodin|1262 Railroad Street|Marquette|MI|49855|ThomasRPerrodin@armyspy.com|906-218-1900|46.725795|-87.457246|378-56-7305
+175|James|Bowens|38 Colonial Drive|Houston|TX|77032|JamesCBowens@teleworm.us|979-645-2099|29.963732|-95.285814|633-22-5798
+176|David|Johnston|2340 Stone Lane|Ridley Park|PA|19078|DavidJJohnston@einrot.com|610-362-0152|39.902964|-75.362403|175-16-6590
+177|Grace|Walker|383 Stutler Lane|Ebensburg|PA|15931|GraceRWalker@teleworm.us|814-472-2888|40.535004|-78.791547|172-64-8054
+178|Reita|Amendola|2218 August Lane|Natchitoches|LA|71457|ReitaAAmendola@fleckens.hu|318-365-4778|31.712704|-93.079759|439-32-2361
+179|Steve|Thompson|2145 Worthington Drive|Dallas|TX|75244|SteveMThompson@dayrep.com|972-619-3598|32.959817|-96.910461|640-52-5469
+180|Eleanor|Washington|2084 Freedom Lane|Livingston|CA|95334|EleanorCWashington@armyspy.com|209-398-1798|37.336414|-120.677003|604-82-8107
+181|Jay|Williams|3783 Gandy Street|Canton|NY|13617|JaySWilliams@teleworm.us|315-275-2476|44.600511|-75.079976|094-70-8779
+182|Jose|Jeffreys|3005 Heron Way|Portland|OR|97204|JoseCJeffreys@armyspy.com|503-776-7132|45.572256|-122.677852|544-17-6965
+183|Gary|Palacios|3214 Lighthouse Drive|Springfield|MO|65804|GarySPalacios@teleworm.us|417-321-4239|37.161201|-93.191315|497-24-9684
+184|Jimmy|Kincheloe|1019 Clay Street|Indianapolis|IN|46204|JimmyKKincheloe@teleworm.us|317-423-0989|39.82052|-86.084986|317-08-7615
+185|Victoria|Hebert|839 Rebecca Street|Lombard|IL|60148|VictoriaAHebert@rhyta.com|847-791-6484|41.973099|-88.105|321-12-1591
+186|Gloria|Abercrombie|936 Poe Lane|Kansas City|KS|66215|GloriaDAbercrombie@jourrapide.com|913-568-8073|39.090092|-94.769881|513-18-3373
+187|Loretta|Buffington|3352 Bombardier Way|Southfield|MI|48235|LorettaMBuffington@fleckens.hu|734-862-3602|42.573451|-83.278949|380-01-2029
+188|Janie|Rodriguez|4730 Pin Oak Drive|Whittier|CA|90602|JanieCRodriguez@fleckens.hu|562-945-7726|34.01391|-117.960867|563-91-5291
+189|Jeanette|Dexter|3304 Twin House Lane|Golden City|MO|64748|JeanetteGDexter@superrito.com|417-537-5479|37.291345|-94.153145|493-23-5532
+190|William|Bender|2915 Stonecoal Road|Napoleon|OH|43545|WilliamSBender@dayrep.com|419-591-2270|41.494533|-84.072706|284-14-9835
+191|Ralph|Clark|4871 Jones Street|Dallas|TX|75201|RalphEClark@einrot.com|817-566-8645|32.767554|-96.853069|466-43-7125
+192|Bertha|Waters|1882 Jadewood Drive|Schaumburg|IL|60173|BerthaMWaters@gustr.com|224-345-7293|41.955541|-88.125958|323-88-2311
+193|Melba|Wright|1439 Spring Haven Trail|Parsippany|NJ|07054|MelbaEWright@fleckens.hu|973-712-0307|40.856681|-74.418059|155-92-1616
+194|Ralph|Milbrandt|3327 Arlington Avenue|Pine Bluff|AR|71601|RalphRMilbrandt@dayrep.com|870-209-9987|34.280452|-91.908903|676-09-3801
+195|John|Butcher|1153 Pretty View Lane|Concord|CA|94520|JohnRButcher@fleckens.hu|707-812-5824|37.962234|-122.113134|621-43-8935
+196|Melanie|Durham|412 Mutton Town Road|Silverdale|WA|98383|MelanieJDurham@fleckens.hu|360-692-2603|47.672012|-122.670018|537-38-7333
+197|Dorothea|Joly|2748 Cinnamon Lane|San Antonio|TX|78209|DorotheaJJoly@armyspy.com|210-820-8492|29.495353|-98.44275|451-97-0361
+198|Ann|Crespo|3156 Eastland Avenue|Jackson|MS|39212|AnnJCrespo@dayrep.com|601-404-9377|32.14536|-90.177682|428-23-8735
+199|Edna|Watts|1251 Station Street|Walnut Creek|CA|94597|EdnaDWatts@dayrep.com|510-943-7412|37.879045|-122.050373|616-46-5144
+200|Wendell|Roseberry|2503 Gorby Lane|Philadelphia|MS|39350|WendellORoseberry@jourrapide.com|601-284-7420|32.885779|-89.12054|427-04-2969
+201|Larry|Kelly|3788 Jarvis Street|Buffalo|NY|14222|LarryKKelly@superrito.com|716-841-0483|42.830782|-78.886114|126-86-5873
+202|Mary|Glover|4862 Clarksburg Park Road|Show Low|AZ|85901|MaryJGlover@jourrapide.com|928-434-8218|34.13884|-109.999249|526-77-5271
+203|Jennifer|Randall|3511 Garfield Road|Bloomington|IL|61701|JenniferJRandall@superrito.com|309-622-4719|40.527872|-88.966467|336-12-4503
+204|Sabina|Nitz|1837 Davis Lane|Denver|CO|80203|SabinaANitz@superrito.com|720-259-8588|39.731576|-105.062264|523-95-4509
+205|Joann|Dent|2559 Daffodil Lane|Reston|VA|22070|JoannEDent@cuvox.de|703-476-0652|38.97728|-77.388836|226-35-5842
+206|Peggy|Redford|1580 Pooh Bear Lane|Blacksburg|SC|29702|PeggyDRedford@armyspy.com|864-839-1349|35.113565|-81.400444|250-90-0047
+207|Mary|Mendoza|2593 Lady Bug Drive|Queens|NY|11101|MaryAMendoza@dayrep.com|718-937-8780|40.671691|-73.751935|070-20-3679
+208|Richard|Sieber|361 Oak Drive|Warrensburg|NY|12885|RichardFSieber@cuvox.de|518-623-6955|43.611773|-73.753795|082-46-7117
+209|Joseph|Cannon|2912 Pennsylvania Avenue|New Brunswick|NJ|08901|JosephHCannon@armyspy.com|732-358-4266|40.455431|-74.403504|157-07-2379
+210|Clarence|Walton|2200 Kembery Drive|Oak Brook|IL|60523|ClarenceLWalton@einrot.com|630-572-0193|41.816963|-87.923362|332-34-8043
+211|Marshall|Nilsen|23 Circle Drive|Houston|TX|77036|MarshallENilsen@einrot.com|832-497-1614|29.61822|-95.456228|466-05-4118
+212|Effie|Kenner|2192 Sarah Drive|Lake Charles|LA|70601|EffieJKenner@armyspy.com|337-563-5033|30.13397|-93.165169|437-49-4547
+213|Kenneth|Chacon|2836 Mount Street|Saginaw|MI|48601|KennethSChacon@armyspy.com|989-625-9765|43.322013|-83.874497|377-08-9736
+214|Richard|Paolucci|4969 Sherman Street|Salina|KS|67401|RichardJPaolucci@einrot.com|785-818-8038|38.873388|-97.607884|511-40-5285
+215|Tara|Jordan|2714 Ashford Drive|Arlington|VA|22201|TaraSJordan@rhyta.com|703-672-7226|38.916713|-77.039643|693-03-6719
+216|Frank|Reece|557 Broad Street|Birmingham|AL|35222|FrankPReece@fleckens.hu|205-478-8125|33.56249|-86.790054|421-76-6300
+217|Kathryn|Whitman|3571 Saint James Drive|New Brunswick|PA|08901|KathrynDWhitman@teleworm.us|717-460-6029|40.476758|-74.436159|185-46-9687
+218|Bryan|Camire|4431 Badger Pond Lane|Hickory|PA|15340|BryanACamire@superrito.com|724-993-0318|40.194275|-80.328814|203-01-5171
+219|Williams|Hensler|213 Forest Avenue|New York|NY|10004|WilliamsEHensler@rhyta.com|646-982-7760|40.655503|-74.054584|086-30-6881
+220|Juan|Decker|2469 Monroe Avenue|Palma Sola|FL|34209|JuanJDecker@fleckens.hu|941-761-8230|27.507312|-82.689835|261-60-9068
+221|Luz|Hansford|490 Saint Clair Street|Calhoun City|MS|38916|LuzMHansford@teleworm.us|662-628-7982|33.786677|-89.407498|426-27-5212
+222|John|Knight|206 Marcus Street|Arab|AL|35016|JohnBKnight@armyspy.com|256-550-0352|34.255864|-86.588038|418-25-0328
+223|John|Nutter|4938 Wilson Street|Palm Springs|CA|92262|JohnLNutter@armyspy.com|760-910-1486|33.749129|-116.561448|621-33-4816
+224|Jason|Larson|1991 Carson Street|Lexington|KY|40507|JasonALarson@einrot.com|859-259-6892|38.087517|-84.477701|404-84-6871
+225|Alan|Howard|1127 Hannah Street|Charlotte|NC|28202|AlanEHoward@dayrep.com|828-386-2258|35.302254|-80.838321|246-28-9733
+226|Elizabeth|Pullins|4497 Lochmere Lane|Meriden|CT|06450|ElizabethEPullins@einrot.com|860-402-6040|41.443441|-72.786987|046-36-9240
+227|Jason|Ward|2946 Terra Street|Renton|WA|98055|JasonCWard@cuvox.de|360-367-8302|47.395072|-122.129129|533-54-1171
+228|Robert|McWilliams|4644 Woodlawn Drive|New Berlin|WI|53151|RobertNMcWilliams@einrot.com|414-750-5688|42.968825|-88.038699|388-42-5831
+229|Roger|Bode|266 Elkview Drive|West Palm Beach|FL|33401|RogerMBode@teleworm.us|772-316-5898|26.641945|-79.982462|265-10-2276
+230|Robert|Joiner|2903 Joanne Lane|Burlington|MA|01803|RobertRJoiner@jourrapide.com|978-430-3865|42.43213|-71.302268|021-82-7543
+231|William|McElroy|2411 Queens Lane|Danville|VA|24541|WilliamJMcElroy@superrito.com|434-791-4439|36.620841|-79.529468|696-03-6292
+232|Arie|Bean|702 Morris Street|Boerne|TX|78006|ArieJBean@gustr.com|830-249-8350|29.857637|-98.652983|634-84-0792
+233|Mayra|Griffin|3628 Brooke Street|Houston|TX|77021|MayraDGriffin@fleckens.hu|713-701-5610|29.660828|-95.343125|630-66-9418
+234|Melissa|Piercy|3692 Powder House Road|Jupiter|FL|33478|MelissaMPiercy@armyspy.com|561-596-5884|26.854745|-80.166416|593-62-1118
+235|Joshua|Huey|1788 Colony Street|Fairfield|CT|06430|JoshuaDHuey@einrot.com|203-259-8749|41.236954|-73.312781|043-01-0758
+236|Delbert|Stout|4195 University Drive|Chicago|IL|60605|DelbertGStout@rhyta.com|312-765-7662|41.869814|-87.579057|324-14-8127
+237|Bryan|Sipp|589 Pringle Drive|Chicago|IL|60606|BryanNSipp@cuvox.de|312-394-5182|41.95214|-87.652693|358-56-4903
+238|David|Griffith|4296 Dark Hollow Road|Madison|WI|53715|DavidAGriffith@jourrapide.com|608-890-7825|43.106114|-89.357486|398-14-3201
+239|Helen|Byrd|85 Pursglove Court|Dayton|OH|45402|HelenRByrd@gustr.com|937-331-9959|39.783395|-84.107399|272-90-5895
+240|Elizabeth|Fulford|400 Reeves Street|Washington Island|WI|54246|ElizabethMFulford@rhyta.com|920-847-1453|45.30544|-86.963384|399-11-7264
+241|Darlene|Silva|2479 Roosevelt Road|Mound Valley|KS|67354|DarleneCSilva@rhyta.com|620-328-2772|37.132081|-95.333715|515-66-6955
+242|Caleb|Crump|76 Godfrey Street|Aloha|OR|97007|CalebMCrump@dayrep.com|503-591-0788|45.396691|-122.895773|540-06-3347
+243|Leonard|Jones|237 Maxwell Farm Road|Weyers Cave|VA|24486|LeonardDJones@superrito.com|540-234-5680|38.236499|-78.879113|225-87-7618
+244|Barbara|Gaddis|309 Pine Street|Butler|PA|16001|BarbaraRGaddis@armyspy.com|724-285-2438|40.843345|-80.004709|200-40-2304
+245|Johnny|Correa|497 Briarhill Lane|Youngstown|OH|44512|JohnnyLCorrea@jourrapide.com|330-254-4910|40.990842|-80.653216|302-60-8291
+246|Ivan|Allison|1500 Leo Street|Denver|CO|80220|IvanDAllison@cuvox.de|720-941-6640|39.649198|-104.89269|523-08-9022
+247|Darren|Mishler|1003 Hilltop Haven Drive|Newark|NJ|07102|DarrenMMishler@cuvox.de|973-810-7389|40.796593|-74.130294|146-28-5358
+248|Ruth|Otero|2260 Clarence Court|Fayetteville|NC|28301|RuthSOtero@fleckens.hu|910-222-3450|35.038748|-78.758329|682-05-4507
+249|Ingeborg|Richardson|3051 Nicholas Street|Topeka|KS|66606|IngeborgARichardson@gustr.com|785-250-3654|39.073763|-95.632843|513-72-9824
+250|Jose|Nelson|2663 Thompson Drive|Oakland|CA|94612|JoseRNelson@rhyta.com|510-444-1700|37.800057|-122.240495|555-09-1225
+251|Dorothy|Christy|2372 Clearview Drive|Centennial|CO|80111|DorothyMChristy@einrot.com|303-713-5338|39.6701|-104.936084|521-70-5949
+252|Richard|Davis|4716 Sherwood Circle|Lafayette|LA|70501|RichardVDavis@rhyta.com|337-296-6489|30.285867|-92.022192|434-16-2689
+253|Fatimah|Davis|4602 Lodgeville Road|Richfield|MN|55423|FatimahJDavis@jourrapide.com|612-243-1717|44.919251|-93.267612|477-80-4598
+254|Colleen|Wong|1452 Prospect Street|Woodbury|NJ|08096|ColleenJWong@armyspy.com|856-686-0573|39.762195|-75.168589|152-07-9418
+255|Jonathan|Lindsey|3483 Thrash Trail|Bogata|TX|75417|JonathanTLindsey@fleckens.hu|903-632-9605|33.403521|-95.169306|644-34-3322
+256|Loriann|Caballero|1808 Maple Court|Columbia|MO|65201|LoriannBCaballero@armyspy.com|573-445-6238|38.956688|-92.160539|498-34-5030
+257|Rita|Castleberry|2666 Foley Street|Fort Lauderdale|FL|33301|RitaHCastleberry@teleworm.us|954-640-5573|26.138715|-80.20242|769-30-1336
+258|Laurel|Simmons|2226 Don Jackson Lane|Laupahoehoe|HI|96764|LaurelVSimmons@gustr.com|808-962-2375|19.872879|-155.180121|575-07-2785
+259|Michael|Hahn|895 Loving Acres Road|Leavenworth|MO|66048|MichaelLHahn@jourrapide.com|816-996-0865|39.233531|-94.925173|495-90-0800
+260|Sarah|Snyder|2715 Kelley Road|Gulfport|MS|39501|SarahASnyder@rhyta.com|228-272-4711|30.439571|-89.018208|425-93-7087
+261|Cody|Rapp|1927 Hall Valley Drive|Gormania|WV|26720|CodyJRapp@einrot.com|304-693-0311|39.29506|-79.235885|233-18-9655
+262|Audrey|Courtney|46 Evergreen Lane|Santa Fe Springs|CA|90670|AudreyMCourtney@armyspy.com|323-514-0137|33.874808|-117.989091|613-30-6823
+263|Elbert|Snyder|4444 Levy Court|Lawrence|MA|01840|ElbertISnyder@fleckens.hu|978-738-6061|42.6489|-71.21105|031-01-9892
+264|Grace|Guzman|106 Leverton Cove Road|Springfield|MA|01103|GraceJGuzman@teleworm.us|413-304-9061|42.16851|-72.599875|011-66-9066
+265|Joseph|Wickman|2236 Old Dear Lane|Cuddebackville|NY|12729|JosephIWickman@superrito.com|845-754-5840|41.540528|-74.594194|100-76-1241
+266|Thomas|Hay|1957 Farm Meadow Drive|Salome|AZ|85348|ThomasCHay@einrot.com|928-859-4139|33.667417|-113.67733|601-48-6183
+267|Marguerite|Daniel|1740 Pearcy Avenue|Decatur|IN|46733|MargueriteRDaniel@superrito.com|260-728-8813|40.741304|-84.917368|316-46-1159
+268|Michael|Townsend|4134 School Street|Washington|DC|20024|MichaelLTownsend@gustr.com|202-927-7565|38.910996|-76.973526|577-21-8832
+269|Conrad|Cruz|4940 Stoneybrook Road|Cocoa|FL|32922|ConradBCruz@cuvox.de|321-449-7209|28.44319|-80.688981|770-42-4162
+270|Ramona|Florence|4248 Vineyard Drive|Rocky River|OH|44116|RamonaTFlorence@cuvox.de|440-331-4370|41.451303|-81.914661|269-30-4147
+271|Madeline|Thompson|2054 Center Avenue|Fresno|CA|93721|MadelineAThompson@rhyta.com|559-493-6908|36.715084|-119.780679|562-24-7118
+272|Clifford|Gregor|1847 Tibbs Avenue|Billings|MT|59101|CliffordJGregor@rhyta.com|406-749-8302|45.593|-108.436534|516-21-1241
+273|Clark|Corley|3513 Fincham Road|Palm Springs|CA|92262|ClarkRCorley@dayrep.com|760-538-4335|33.729497|-116.637722|611-09-5274
+274|Richard|Tolentino|4944 Coal Street|Altoona|PA|16601|RichardJTolentino@rhyta.com|814-386-9164|40.594389|-78.392607|181-20-0329
+275|Bryan|Shuster|228 Robinson Court|Bay City|MI|48706|BryanIShuster@superrito.com|989-513-2343|43.512942|-83.945018|365-21-0273
+276|Ashley|Ware|4731 Snowbird Lane|Norfolk|NE|68701|AshleyJWare@rhyta.com|402-640-9536|42.077216|-97.50671|505-72-9794
+277|Donald|Nussbaum|3983 Straford Park|Grethel|KY|41631|DonaldLNussbaum@fleckens.hu|606-587-3852|37.433083|-82.633144|401-23-4164
+278|Ray|Swan|2194 Lightning Point Drive|Memphis|TN|38110|RayJSwan@armyspy.com|901-543-1911|35.129394|-89.930224|410-82-3067
+279|Michael|Lebo|4932 Byers Lane|Chico|CA|95928|MichaelMLebo@armyspy.com|530-779-2331|39.630262|-121.75708|617-25-5099
+280|Sheila|Thomas|4845 Briarwood Drive|Pennsauken|NJ|08110|SheilaRThomas@cuvox.de|856-421-2944|39.923326|-74.990965|153-78-9753
+281|David|Huneycutt|2328 Wilmar Farm Road|Herndon|MD|22070|DavidJHuneycutt@cuvox.de|240-312-2166|38.860768|-77.367923|215-43-2713
+282|Martin|Mejia|120 Ridge Road|Ulysses|KS|67880|MartinNMejia@einrot.com|620-851-3890|37.577632|-101.37336|515-24-4963
+283|Arturo|Richter|1147 Desert Broom Court|Newark|NJ|07102|ArturoKRichter@gustr.com|201-740-6246|40.795275|-74.235198|139-64-9616
+284|William|Musgrove|279 East Avenue|Phoenix|AZ|85016|WilliamAMusgrove@rhyta.com|480-366-9777|33.539584|-111.933967|765-10-8792
+285|Jennifer|Smith|2101 Bubby Drive|San Marcos|TX|78666|JenniferLSmith@einrot.com|512-396-4647|29.939264|-98.008162|451-51-9902
+286|Barbara|Maxwell|542 Cardinal Lane|Hammond|IL|61929|BarbaraRMaxwell@gustr.com|217-262-1658|39.737339|-88.560646|346-84-8063
+287|Charmaine|Gray|4471 Lowndes Hill Park Road|Bakersfield|CA|93301|CharmaineOGray@armyspy.com|661-453-1751|35.486761|-119.008408|548-91-9859
+288|David|Montgomery|1971 Andy Street|Milbank|SD|57252|DavidPMontgomery@superrito.com|605-432-8563|45.231291|-96.55228|504-90-5318
+289|Heather|Armas|4888 Locust View Drive|San Jose|CA|95113|HeatherDArmas@superrito.com|415-952-3618|37.234709|-121.868368|570-25-7864
+290|Paul|Littlejohn|4908 Glenview Drive|Victoria|TX|77901|PaulDLittlejohn@cuvox.de|361-570-2162|28.859107|-97.080862|456-34-3539
+291|Daniel|Smith|3782 Shinn Street|New York|NY|10023|DanielJSmith@armyspy.com|212-787-5412|40.849091|-73.914214|077-48-3829
+292|Barbara|Griffin|3581 Briercliff Road|Jamaica|NY|11432|BarbaraJGriffin@armyspy.com|718-704-6741|40.69081|-73.814211|055-68-1709
+293|Rhoda|Schenk|1440 Turkey Pen Lane|Montgomery|AL|36117|RhodaGSchenk@cuvox.de|334-494-4662|32.424153|-86.066834|423-48-1019
+294|Michael|Meredith|1631 Drummond Street|Piscataway|NJ|08854|MichaelCMeredith@einrot.com|973-294-9573|40.50333|-74.439677|144-52-0672
+295|Ronald|Jackson|2681 Saint Clair Street|Jackson|MS|39213|RonaldGJackson@gustr.com|662-574-7224|32.484562|-90.244082|428-48-9468
+296|Cecile|Beaty|4154 Big Elm|Kansas City|MO|64056|CecileMBeaty@fleckens.hu|816-796-0377|39.195343|-94.537815|495-92-5433
+297|Susana|Seidel|889 Henery Street|Wichita|KS|67202|SusanaGSeidel@cuvox.de|316-771-4317|37.658558|-97.246051|514-20-0933
+298|Rosa|Barth|936 Lee Avenue|Camden|NJ|08102|RosaJBarth@cuvox.de|856-315-3690|39.954087|-75.07717|151-82-7294
+299|Robert|Bryant|4938 Lyon Avenue|Marlboro|MA|01752|RobertCBryant@superrito.com|508-925-0165|42.418177|-71.471772|034-54-3198
+300|Beverly|Brock|4461 Dancing Dove Lane|Brooklyn|NY|11206|BeverlyCBrock@einrot.com|347-625-4210|40.675903|-73.945697|134-12-8404
+301|Richard|Foley|2446 Cemetery Street|Salinas|CA|93901|RichardRFoley@teleworm.us|831-912-3911|36.709946|-121.644478|609-26-8383
+302|John|Taylor|2176 Elk Avenue|Hanover|MI|49241|JohnPTaylor@armyspy.com|517-563-0058|42.04825|-84.517403|369-29-3323
+303|Jason|Reeves|78 Augusta Park|Dunbar|WV|25064|JasonFReeves@einrot.com|304-766-2654|38.410273|-81.669708|235-84-9916
+304|Gary|Williams|4038 County Line Road|Countryside|FL|34619|GaryYWilliams@cuvox.de|727-793-6524|29.015164|-80.995768|262-87-7797
+305|Liliana|Haskins|4537 Rhapsody Street|Gainesville|FL|32601|LilianaJHaskins@superrito.com|352-337-8051|29.666287|-82.365613|594-14-6643
+306|Alan|Baker|4433 Arbutus Drive|Ft Lauderdale|FL|33311|AlanLBaker@jourrapide.com|305-915-2274|26.091328|-80.058446|595-90-0654
+307|Elisabeth|Fiedler|1210 Bridge Street|Sapulpa|OK|74066|ElisabethSFiedler@dayrep.com|918-880-6646|36.024656|-96.069892|444-40-5108
+308|John|McDonnell|4786 Tree Top Lane|Collegeville|PA|19426|JohnMMcDonnell@einrot.com|610-244-5505|40.208458|-75.502154|206-78-8781
+309|Vida|Phung|357 Seneca Drive|Portland|OR|97205|VidaNPhung@dayrep.com|503-931-6827|45.44383|-122.741794|542-03-3920
+310|Timothy|Allen|4665 Tori Lane|Provo|UT|84603|TimothyRAllen@jourrapide.com|801-592-9280|40.343645|-111.601192|529-80-4418
+311|Charles|Darrah|713 Cecil Street|Arlington Heights|IL|60005|CharlesMDarrah@gustr.com|312-268-5705|42.034743|-87.956649|361-90-4255
+312|Dolly|Baker|4491 Simpson Square|Hooker|OK|73945|DollyEBaker@rhyta.com|580-652-4790|36.894964|-101.245667|448-24-9336
+313|Kent|Carranza|4848 Bee Street|Grand Rapids|MI|49503|KentCCarranza@rhyta.com|231-776-5732|42.933656|-85.692516|362-17-2511
+314|Twyla|Welborn|4257 Mcwhorter Road|Greenwood|MS|38930|TwylaMWelborn@fleckens.hu|662-467-1969|33.585084|-90.101805|587-10-7612
+315|Felicia|Ayala|4160 Rockwell Lane|Williamston|NC|27892|FeliciaKAyala@armyspy.com|252-601-3129|35.821491|-77.085609|689-03-9239
+316|Clara|Douglass|4161 Calvin Street|Baltimore|MD|21202|ClaraPDouglass@rhyta.com|443-352-6830|39.347795|-76.619464|217-24-3658
+317|Edmund|Coles|1922 Rivendell Drive|Youngstown|OH|44509|EdmundMColes@cuvox.de|330-793-1753|41.120099|-80.727718|287-42-4321
+318|Ellen|Delp|2788 Rockwell Lane|Coinjock|NC|27923|EllenBDelp@fleckens.hu|252-619-2491|36.314879|-76.011814|689-01-7965
+319|Jessica|Howard|1742 Filbert Street|Collegeville|PA|19426|JessicaJHoward@teleworm.us|610-831-6243|40.188904|-75.37241|166-80-0042
+320|Stacey|Parris|594 Lauren Drive|Madison|WI|53718|StaceyLParris@dayrep.com|608-487-4848|43.16289|-89.348085|399-32-2301
+321|Jeffrey|Moore|1960 Layman Court|Atlanta|GA|30346|JeffreyRMoore@rhyta.com|678-349-6318|33.85571|-84.417535|667-01-6424
+322|Joe|Moss|4251 Dark Hollow Road|Penns Neck|NJ|08540|JoeAMoss@jourrapide.com|609-275-9410|39.55988|-75.570275|141-15-5989
+323|Adam|Rodriguez|2676 Woodland Avenue|Mandeville|LA|70448|AdamARodriguez@dayrep.com|985-674-9227|30.389119|-90.055308|661-12-2405
+324|Glenda|George|790 Passaic Street|Washington|DC|20017|GlendaEGeorge@rhyta.com|202-269-1343|38.907574|-76.971438|579-11-9507
+325|Noel|Reeves|4399 Marigold Lane|Fort Lauderdale|FL|33311|NoelSReeves@fleckens.hu|305-401-3037|26.070614|-80.106588|267-37-2344
+326|Miguel|Harris|4935 Tyler Avenue|Miami|FL|33169|MiguelSHarris@cuvox.de|305-359-8544|25.940783|-80.177074|771-12-4312
+327|Lucy|Farrington|579 Pheasant Ridge Road|Philadelphia|PA|19103|LucyAFarrington@einrot.com|215-569-0233|40.032929|-75.247978|168-78-2704
+328|Morton|Hannan|149 Terra Street|Freeland|WA|98260|MortonTHannan@armyspy.com|360-331-9677|48.042736|-122.511851|532-40-0137
+329|Jamie|Minor|995 Foley Street|Fort Lauderdale|FL|33308|JamieRMinor@jourrapide.com|954-677-6835|26.108338|-80.02614|593-91-0836
+330|Jerry|Wells|3039 Hillcrest Drive|Auburn|WA|98002|JerryJWells@jourrapide.com|253-288-5864|47.367733|-122.200712|534-11-6837
+331|Steve|Foreman|1621 Lyon Avenue|Worcester|MA|01609|SteveCForeman@gustr.com|508-956-6910|42.325194|-71.891476|013-44-5173
+332|Florentina|McClain|4371 Olive Street|Jenera|OH|45841|FlorentinaRMcClain@armyspy.com|419-326-5478|40.901228|-83.792355|295-98-4110
+333|Sean|Williams|2803 Green Street|Nashville|TN|37211|SeanDWilliams@armyspy.com|615-579-9597|36.105127|-86.665753|412-68-1383
+334|Justin|Dutton|90 Maloy Court|Colby|KS|67701|JustinMDutton@cuvox.de|785-460-4215|39.445739|-101.017738|514-20-4003
+335|James|Lewis|3269 Traders Alley|Kansas City|MO|64106|JamesELewis@superrito.com|816-447-0776|39.076606|-94.549066|494-22-7268
+336|Joseph|Stephens|20 Chipmunk Lane|Winterport|ME|04496|JosephLStephens@superrito.com|207-223-4657|44.572415|-68.849177|007-84-5287
+337|Crystal|Gonsales|1083 Holt Street|Boynton Beach|FL|33436|CrystalCGonsales@jourrapide.com|561-305-4844|26.596913|-80.086168|767-16-9808
+338|David|McKee|3703 Kimberly Way|Portage|MI|49002|DavidLMcKee@superrito.com|616-988-1153|42.25503|-85.595695|378-78-9025
+339|Evan|Lilly|2471 Frosty Lane|Binghamton|NY|13901|EvanKLilly@cuvox.de|607-731-2881|42.220359|-75.863625|058-94-3370
+340|Christopher|Berkeley|3327 Hurry Street|Waynesboro|VA|22980|ChristopherJBerkeley@teleworm.us|540-293-0075|38.166591|-78.906213|691-01-3880
+341|Rose|Baca|472 Walkers Ridge Way|West Chicago|IL|60185|RoseJBaca@superrito.com|630-231-2278|41.958391|-88.278904|319-22-9439
+342|Elizabeth|Smith|4802 Hall Street|Las Vegas|NV|89121|ElizabethRSmith@armyspy.com|702-454-1801|36.174302|-115.109815|530-76-7633
+343|Helen|White|2647 Cardinal Lane|Cleveland|OH|44115|HelenDWhite@teleworm.us|216-999-3771|41.387846|-81.728405|278-20-8538
+344|Esther|Schutte|4230 Front Street|Southfield|MI|48075|EstherRSchutte@gustr.com|810-410-5809|42.49521|-83.316263|368-15-0058
+345|Mary|Winton|1249 Garfield Road|Adair|IL|61411|MaryJWinton@einrot.com|309-653-9624|40.411916|-90.599287|347-01-4012
+346|Robert|Young|756 May Street|Morehead|KY|40351|RobertKYoung@fleckens.hu|606-342-0838|38.111284|-83.361835|402-24-9762
+347|Shirley|James|2152 Berkley Street|Philadelphia|PA|19103|ShirleySJames@cuvox.de|484-845-8869|39.875076|-75.182914|180-58-1865
+348|Margaret|Hightower|3214 Tree Top Lane|West Brunswick Twp|PA|19549|MargaretJHightower@jourrapide.com|610-281-5698|40.62109|-75.981401|195-48-3515
+349|William|Clark|1266 Brownton Road|Long Community|MS|38915|WilliamRClark@einrot.com|662-414-1517|30.428452|-89.219842|425-68-9793
+350|Cecile|Richardson|1807 Maxwell Farm Road|Waynesboro|VA|22980|CecileMRichardson@dayrep.com|540-241-1071|38.064784|-78.894985|231-19-9372
+351|John|Castro|4218 Lee Avenue|Princeton|NJ|08540|JohnMCastro@einrot.com|856-283-8755|40.38924|-74.626643|144-48-4324
+352|Thelma|Calton|4701 Shinn Street|New York|NY|10018|ThelmaECalton@einrot.com|212-760-7855|40.712138|-73.906725|060-03-8830
+353|Floyd|Lawless|2250 White Lane|Butler|GA|31009|FloydTLawless@einrot.com|478-862-5725|32.49634|-84.168703|257-31-4922
+354|Elsie|Bucklin|4555 Benson Park Drive|Oklahoma City|OK|73160|ElsieJBucklin@superrito.com|405-521-2745|35.414415|-97.44992|443-80-9956
+355|Mandi|Gant|134 O Conner Street|Pascagoula|MS|39567|MandiWGant@einrot.com|228-761-1634|30.396504|-88.542632|428-87-3743
+356|Jean|Young|2024 Valley Drive|Philadelphia|PA|19108|JeanMYoung@fleckens.hu|267-390-3476|39.979399|-75.112601|187-42-2897
+357|Rebecca|Kilpatrick|3366 Court Street|Saint Charles|MO|63301|RebeccaLKilpatrick@fleckens.hu|636-724-8157|38.951554|-90.561644|492-24-1967
+358|Joshua|Cole|2988 Forest Avenue|Elmsford|NY|10523|JoshuaMCole@gustr.com|646-778-3040|40.977923|-73.7772|055-90-1814
+359|Jason|Carter|988 Margaret Street|Houston|TX|77006|JasonMCarter@rhyta.com|713-942-3438|29.76065|-95.384862|629-76-3448
+360|William|White|4733 Deer Ridge Drive|Newark|NJ|07102|WilliamKWhite@gustr.com|973-587-3639|40.716847|-74.250022|145-03-1578
+361|James|Miner|938 Leroy Lane|Flandreau|SD|57028|JamesJMiner@teleworm.us|605-997-6130|43.962433|-96.589219|504-36-2440
+362|Matthew|Mastropietro|3971 Jacobs Street|Crafton|PA|15205|MatthewKMastropietro@fleckens.hu|412-370-3891|40.520721|-79.997686|201-18-9621
+363|Barry|Perez|4150 Wilkinson Street|Nashville|TN|37210|BarrySPerez@dayrep.com|615-433-3693|36.110064|-86.759423|408-39-1320
+364|Harry|Harlan|409 Florence Street|Longview|TX|75601|HarryBHarlan@fleckens.hu|903-530-3988|32.567703|-94.729356|629-24-7058
+365|Vera|Marin|3934 Camden Place|Charleston|SC|29424|VeraJMarin@superrito.com|843-973-4071|32.733656|-79.994991|657-12-6158
+366|Shirley|Singleton|720 Raccoon Run|Seattle|WA|98116|ShirleyTSingleton@einrot.com|206-935-9809|47.525224|-122.485677|537-23-9488
+367|Robert|Wright|3950 Whitman Court|Norwalk|CT|06854|RobertMWright@superrito.com|203-593-2098|41.089782|-73.488431|044-52-2686
+368|Nicole|Engelman|454 Penn Street|Kennett|MO|63857|NicoleJEngelman@superrito.com|573-316-1788|36.194924|-90.093049|494-23-3086
+369|Dorian|Mason|1743 Wildrose Lane|Detroit|MI|48224|DorianCMason@jourrapide.com|313-885-1204|42.355685|-82.957273|386-23-5870
+370|Saul|Sanders|3518 Virginia Street|Chicago|IL|60605|SaulKSanders@fleckens.hu|773-591-9017|41.919511|-87.63119|356-46-4786
+371|Priscilla|Bunton|4912 Liberty Street|Dallas|TX|75204|PriscillaLBunton@superrito.com|214-823-9183|32.764128|-96.728079|457-27-3190
+372|Mary|Cohen|688 Eden Drive|Richmond|VA|23233|MarySCohen@dayrep.com|804-934-1239|37.628889|-77.722064|224-31-0471
+373|Stanley|Calhoun|4547 Upton Avenue|North Haven|ME|04853|StanleyJCalhoun@superrito.com|207-867-1189|44.058018|-68.808017|007-54-5492
+374|Alejandro|Macgregor|2180 Pinchelone Street|Portsmouth|VA|23707|AlejandroEMacgregor@superrito.com|757-297-0799|36.887242|-76.332147|223-69-9878
+375|Kathleen|Simmons|4539 Pike Street|San Diego|CA|92109|KathleenMSimmons@rhyta.com|858-488-6116|32.860693|-117.240999|607-39-4930
+376|Rudy|Cordova|1083 Roguski Road|Marksville|LA|71351|RudySCordova@cuvox.de|318-240-5687|31.153183|-92.020377|437-02-6642
+377|Edward|Holmberg|1206 Saint Clair Street|Jackson|MS|39201|EdwardPHolmberg@jourrapide.com|662-613-7293|32.285977|-90.275928|428-03-8120
+378|Danielle|Ward|4190 Patterson Street|Houston|TX|77025|DanielleTWard@superrito.com|713-314-5753|29.743957|-95.391041|461-59-0215
+379|Bruce|Meek|3579 Goff Avenue|Plainwell|MI|49080|BruceMMeek@dayrep.com|269-685-1259|42.407936|-85.583533|373-84-2434
+380|Clara|Cowan|645 Maxwell Street|Stamford|CT|06902|ClaraECowan@jourrapide.com|860-783-1177|41.086595|-73.464262|049-74-2987
+381|Thomas|Johnson|4511 Gateway Avenue|Bakersfield|CA|93304|ThomasJJohnson@teleworm.us|661-903-3501|35.407347|-119.067296|622-86-0596
+382|Kina|Teller|2594 Henery Street|Wichita|KS|67204|KinaPTeller@teleworm.us|316-831-1264|37.842931|-97.375778|510-58-5542
+383|Calvin|Jones|2933 Heather Sees Way|Ralston|OK|74650|CalvinJJones@cuvox.de|918-738-8311|36.446901|-96.629145|442-80-7500
+384|Gilbert|Browner|3750 Walt Nuzum Farm Road|Rochester|NY|14624|GilbertSBrowner@superrito.com|585-426-1229|43.087718|-77.820622|083-26-7420
+385|Richard|Cordova|4725 Reppert Coal Road|Southfield|MI|48075|RichardMCordova@teleworm.us|586-890-5900|42.391852|-83.194713|377-09-9765
+386|Jason|Showalter|2195 Weekley Street|San Antonio|TX|78258|JasonDShowalter@einrot.com|210-413-0225|29.732645|-98.464702|458-95-4722
+387|Sherry|Powe|567 Caldwell Road|Rochester|NY|14611|SherryDPowe@jourrapide.com|585-235-6537|43.178413|-77.555319|070-64-2324
+388|Olga|Hay|704 Ashford Drive|Centerville|VA|22020|OlgaKHay@cuvox.de|703-653-0510|37.69872|-75.613754|228-81-0188
+389|Beatrice|Looney|662 Penn Street|Jackson|MO|63755|BeatriceDLooney@armyspy.com|573-243-4008|37.480812|-89.553859|496-03-9343
+390|Rose|Hoff|4029 Willow Oaks Lane|Lafayette|LA|70501|RoseJHoff@dayrep.com|337-362-9290|30.202149|-92.036989|436-88-9051
+391|Carol|Tyler|4304 Pallet Street|White Plains|NY|10601|CarolMTyler@gustr.com|914-422-0393|41.029994|-73.77618|117-46-8227
+392|Linda|White|525 Thrash Trail|Tyler|TX|75757|LindaRWhite@jourrapide.com|903-581-3976|32.380817|-95.199781|642-30-4862
+393|Janice|Jobe|4400 Alpha Avenue|Jacksonville|FL|32207|JanicePJobe@rhyta.com|904-257-9202|30.208182|-81.631353|589-06-7856
+394|Richard|Unger|3560 Nash Street|Southfield|MI|48075|RichardEUnger@fleckens.hu|313-276-1210|42.399288|-83.252246|380-56-6380
+395|Michael|Showers|1546 Ridge Road|Great Bend|KS|67530|MichaelKShowers@fleckens.hu|620-793-2201|38.274868|-98.820437|511-70-3497
+396|Helen|Westphal|2425 Shinn Street|New York|NY|10022|HelenJWestphal@dayrep.com|212-715-7568|40.753709|-74.035626|078-82-4961
+397|Richard|Augustine|1633 Lucy Lane|Chandler|IN|47610|RichardSAugustine@rhyta.com|812-454-1342|38.109103|-87.470439|303-40-2110
+398|Kathy|Clark|281 Patterson Fork Road|Chicago|IL|60605|KathyMClark@einrot.com|312-662-5740|41.763746|-87.643466|343-34-3616
+399|Sara|Johnson|4859 Rainbow Road|Alhambra|CA|91801|SaraJJohnson@fleckens.hu|626-281-9959|34.060135|-118.093248|564-38-1981
+400|Betty|Tirado|1826 Conference Center Way|Lock Haven|PA|17745|BettyRTirado@rhyta.com|570-893-3334|41.345943|-77.524824|181-42-9424
+401|Matthew|Duncan|2799 Lodgeville Road|Minneapolis|MN|55402|MatthewSDuncan@einrot.com|612-343-1769|44.946505|-93.230804|469-41-5480
+402|Debbie|Tyson|34 Sumner Street|El Segundo|CA|90245|DebbieRTyson@teleworm.us|310-563-9039|33.867412|-118.367183|555-07-4881
+403|Louise|Reyes|2934 Feathers Hooves Drive|Hampton Bays|NY|11946|LouiseRReyes@cuvox.de|631-723-6533|40.82567|-72.505057|132-03-7493
+404|Deanna|Mateo|3071 Ashwood Drive|Sioux City|IA|51103|DeannaSMateo@jourrapide.com|712-346-6566|42.437812|-96.439178|479-14-9420
+405|David|Elzey|3301 Norma Avenue|Prairie View|TX|77445|DavidAElzey@cuvox.de|936-857-3630|30.116215|-95.948159|455-88-0938
+406|Alexis|Bojorquez|2265 Commerce Boulevard|Norfolk|NE|68701|AlexisHBojorquez@rhyta.com|402-518-6714|41.998945|-97.371259|506-88-1455
+407|Oscar|Lymon|812 Liberty Street|Dallas|TX|75209|OscarKLymon@dayrep.com|214-902-6836|32.828646|-96.784112|467-14-4559
+408|Mirna|Speirs|1504 Gambler Lane|Houston|TX|77032|MirnaMSpeirs@rhyta.com|281-960-0884|29.955791|-95.361371|643-01-3828
+409|Marlin|Aguirre|1349 Traders Alley|Kansas City|MO|64106|MarlinTAguirre@armyspy.com|816-398-3202|39.099078|-94.529303|488-15-4650
+410|Thelma|Quick|3240 Perine Street|Mclean|VA|22101|ThelmaJQuick@jourrapide.com|703-734-0949|38.986912|-77.159078|694-01-6122
+411|Christopher|Goff|4081 Mayo Street|Burgin|KY|40310|ChristopherRGoff@fleckens.hu|859-748-2621|37.833364|-84.691339|407-44-1388
+412|Cory|Thor|2273 Lodgeville Road|Minneapolis|MN|55402|CoryDThor@rhyta.com|612-273-8208|45.008659|-93.19138|477-24-2018
+413|Sara|Lambert|2215 Sycamore Road|Blodgett|OR|97326|SaraNLambert@einrot.com|541-456-6989|44.67923|-123.571377|540-35-8181
+414|George|Sayers|2945 Marion Street|North Augusta|SC|29841|GeorgeKSayers@teleworm.us|803-208-0405|33.597742|-81.979258|658-05-6254
+415|Janie|Goodwyn|1914 Central Avenue|Jersey City|NJ|07304|JanieJGoodwyn@teleworm.us|201-333-9015|40.787407|-74.135806|146-11-2878
+416|Jose|Bennett|2352 Randall Drive|Waikoloa|HI|96743|JoseRBennett@gustr.com|808-883-9285|19.832683|-155.747963|575-23-0910
+417|Clarence|Bowers|789 Khale Street|Charleston|SC|29424|ClarenceMBowers@einrot.com|843-564-4036|32.844091|-79.985524|656-18-1455
+418|Giuseppina|Knight|3577 Randolph Street|Vineyard Haven|MA|02568|GiuseppinaDKnight@jourrapide.com|508-693-7809|41.484974|-70.653593|019-16-3407
+419|Donna|Guy|246 Patton Lane|Raleigh|NC|27609|DonnaJGuy@fleckens.hu|919-272-7409|35.82943|-78.665077|682-05-2273
+420|Norma|Schmidt|1039 Jefferson Street|Fredericksburg|VA|22401|NormaBSchmidt@armyspy.com|757-814-1133|38.210856|-77.414007|696-01-5833
+421|James|Sinclair|4889 Pine Tree Lane|Beltsville|MD|20705|JamesCSinclair@einrot.com|240-462-7349|39.109183|-76.828188|213-21-9313
+422|Charles|Armstrong|2945 Deer Haven Drive|Clarks Hill|SC|29821|CharlesMArmstrong@gustr.com|864-333-5350|33.616995|-82.193409|655-14-6621
+423|Katharine|Lanier|3291 Tenmile Road|Reading|MA|01867|KatharineBLanier@cuvox.de|781-758-0513|42.519294|-71.116722|022-50-4639
+424|Emily|Miller|2407 Rainy Day Drive|Boston|MA|02110|EmilyLMiller@dayrep.com|617-912-7522|42.269962|-70.952065|013-44-1786
+425|Lisa|Spangler|3101 Keyser Ridge Road|Greensboro|NC|27407|LisaLSpangler@dayrep.com|336-460-6541|36.098707|-79.784167|240-07-7062
+426|Kenneth|Heisler|1352 Swick Hill Street|Charlotte|NC|28202|KennethAHeisler@dayrep.com|980-555-9805|35.137106|-80.854226|682-09-0316
+427|Kathryn|Ness|2580 Broadcast Drive|Charlotte|NC|28208|KathrynDNess@rhyta.com|704-244-6990|35.149879|-80.852455|685-09-6531
+428|Richard|Gunnels|4859 Lewis Street|Oak Brook|IL|60523|RichardNGunnels@dayrep.com|630-931-9241|41.860208|-88.024715|359-62-0262
+429|Michael|Poole|396 Stonepot Road|Branchburg|NJ|08876|MichaelLPoole@cuvox.de|908-398-3570|40.492966|-74.662966|152-36-4289
+430|Charles|Meadow|4734 Meadowview Drive|Unionville|VA|22567|CharlesTMeadow@gustr.com|540-854-5362|38.158821|-77.898894|225-51-9304
+431|Evelyn|Hayes|1047 Ash Avenue|Stlouis|MO|63101|EvelynEHayes@einrot.com|314-871-6153|38.686907|-90.093938|489-94-7825
+432|Alexander|Smith|3004 College View|Clay City|IL|62824|AlexanderKSmith@gustr.com|618-676-3641|38.713668|-88.278981|322-48-8936
+433|Charlene|Elliott|2751 Young Road|Twin Falls|ID|83301|CharleneBElliott@einrot.com|208-481-3668|42.494989|-114.668617|518-68-2647
+434|Keith|Lindenberg|4542 Morgan Street|Panama City|FL|32401|KeithRLindenberg@fleckens.hu|850-498-2419|30.187132|-85.551753|589-62-0442
+435|Robert|Barnett|3071 Locust Court|Gardena|CA|90248|RobertDBarnett@dayrep.com|562-412-1469|33.890183|-118.183283|611-19-4524
+436|Donna|Lewis|2110 Kovar Road|Franklin|MA|02038|DonnaDLewis@einrot.com|508-582-7385|42.134338|-71.506733|033-82-0721
+437|Jeffrey|Glynn|29 Terra Cotta Street|Red Lake|MN|56671|JeffreyCGlynn@superrito.com|218-679-3366|47.858638|-95.077711|472-13-8653
+438|Tommy|Winnie|1045 Wood Duck Drive|Marquette|MI|49855|TommyCWinnie@cuvox.de|906-379-1647|46.694352|-87.52291|369-76-9593
+439|Sandra|Chandler|2839 Neuport Lane|Covington|GA|30209|SandraRChandler@einrot.com|770-385-1230|33.60387|-83.980274|669-14-3895
+440|Karen|Sykes|1500 Adams Drive|Brenham|TX|77833|KarenMSykes@rhyta.com|979-337-0096|30.288254|-96.388902|454-99-7065
+441|Velvet|Howard|2028 Front Street|Southfield|MI|48075|VelvetCHoward@superrito.com|810-355-4867|42.526833|-83.206414|379-22-5892
+442|Julie|Matthews|2007 Burwell Heights Road|Houston|TX|77002|JulieCMatthews@superrito.com|409-526-3035|29.665956|-95.39859|466-46-5262
+443|Connie|Hanes|573 Dogwood Road|Phoenix|AZ|85021|ConnieRHanes@einrot.com|602-749-7349|33.654182|-112.189181|600-79-6831
+444|Larry|Rader|1950 Maloy Court|Salina|KS|67401|LarryJRader@cuvox.de|785-447-3333|38.806364|-97.609765|513-82-5467
+445|Kathleen|Kirby|124 Haul Road|Mountain View|CA|94041|KathleenDKirby@superrito.com|650-938-8772|37.299475|-122.098183|559-03-6447
+446|Andrew|Vanderpool|4180 Norman Street|Los Angeles|CA|90044|AndrewSVanderpool@rhyta.com|323-241-8419|33.946193|-118.38396|623-30-2302
+447|Melinda|Newbury|3757 Collins Avenue|Columbus|OH|43213|MelindaHNewbury@rhyta.com|614-866-2798|39.95927|-82.886339|296-02-2726
+448|Allison|McCullough|1611 Paradise Lane|Los Angeles|CA|90017|AllisonKMcCullough@cuvox.de|909-724-4759|33.997966|-118.173884|573-46-9431
+449|Sydney|Theriault|4990 Frank Avenue|Pittsburgh|PA|15220|SydneyBTheriault@gustr.com|412-970-9657|40.344106|-79.988842|209-48-3739
+450|Monte|Pickett|2094 Traders Alley|Kansas City|MO|64106|MonteJPickett@fleckens.hu|816-426-6640|39.115211|-94.664753|490-01-6834
+451|Paul|Cales|4416 Ethels Lane|Tampa|FL|33610|PaulCCales@superrito.com|863-712-0641|27.921537|-82.318473|264-19-3376
+452|Homer|Strong|4499 Callison Lane|Harrington|DE|19952|HomerRStrong@armyspy.com|302-398-4982|38.858413|-75.69452|222-78-0799
+453|Tasha|Caperton|2449 Star Route|Bensenville|IL|60106|TashaRCaperton@rhyta.com|708-625-9814|41.98634|-87.918809|321-42-1000
+454|Bradley|Mellon|2652 Fittro Street|Melbourne|AR|72556|BradleyEMellon@dayrep.com|870-368-1907|36.068534|-91.988941|430-66-9140
+455|Jeff|Spence|3714 Khale Street|Georgetown|SC|29440|JeffMSpence@gustr.com|843-527-9264|33.286367|-79.311698|658-10-4727
+456|John|Feemster|4094 Drummond Street|Haledon|NJ|07508|JohnFFeemster@jourrapide.com|973-238-5582|41.017242|-74.115402|148-88-7541
+457|Charles|Murray|2797 Hazelwood Avenue|Des Moines|IA|50317|CharlesBMurray@gustr.com|515-312-6936|41.663925|-93.530437|481-25-5898
+458|Marlene|Probst|1670 Pine Tree Lane|Thayerville|MD|21550|MarleneNProbst@einrot.com|240-442-1703|39.430749|-79.453227|219-03-0020
+459|Henry|Holden|3940 Byers Lane|Sacramento|CA|94260|HenryMHolden@teleworm.us|530-798-0783|38.605682|-121.417587|607-19-3474
+460|Tammy|Storie|4078 Cambridge Court|Centerton|AR|72719|TammyWStorie@superrito.com|479-795-0392|36.412031|-94.352338|676-09-9273
+461|Peggy|Lancaster|1437 Owen Lane|Fort Myers|FL|33901|PeggySLancaster@cuvox.de|239-253-5438|26.703216|-81.797617|264-40-2795
+462|George|Dasilva|4351 Ashford Drive|Mclean|VA|22102|GeorgeCDasilva@teleworm.us|703-675-7647|39.030729|-77.145088|695-01-7403
+463|Charles|Garcia|2444 Crestview Manor|Indianapolis|IN|46241|CharlesCGarcia@jourrapide.com|317-260-3232|39.710012|-86.265555|308-80-7387
+464|Lamont|Watt|2042 Dovetail Drive|Buffalo Grove|IL|60089|LamontLWatt@einrot.com|847-344-0117|42.202811|-88.028779|358-96-2240
+465|Janet|McMillian|4853 Frum Street|Nashville|TN|37211|JanetMMcMillian@dayrep.com|615-317-8630|36.164046|-86.632585|409-93-8842
+466|Rosemary|Burden|3563 Chenoweth Drive|Nashville|TN|37201|RosemaryLBurden@einrot.com|931-557-6452|36.162697|-86.768934|412-36-4384
+467|Wilbur|Simmons|1631 Point Street|Chicago|IL|60606|WilburCSimmons@cuvox.de|773-906-6341|41.925652|-87.538113|333-94-9599
+468|Joyce|O'Connor|3371 Hill Croft Farm Road|South Tahoe|CA|95705|JoyceWOConnor@rhyta.com|530-541-9517|39.05349|-119.935699|606-31-3473
+469|Randy|Rush|3926 Cerullo Road|Louisville|KY|40244|RandyRRush@superrito.com|502-363-6261|38.271171|-85.749234|402-44-2449
+470|Cheryl|Johnson|4854 Cherry Tree Drive|Jacksonville|FL|32205|CherylKJohnson@dayrep.com|904-389-3558|30.398205|-81.759121|591-35-4194
+471|Mary|Martinez|81 Adams Avenue|Frederick|MD|21701|MaryRMartinez@teleworm.us|301-712-2407|39.445996|-77.267114|220-63-6704
+472|Alex|Stewart|1774 Cantebury Drive|Westbury|NY|11590|AlexJStewart@dayrep.com|646-567-7235|40.737784|-73.488184|057-05-4521
+473|Denise|Shuler|3389 Pratt Avenue|Orchards|WA|98662|DeniseEShuler@cuvox.de|360-944-7155|45.604183|-122.6007|531-56-3236
+474|William|Douglas|4397 West Virginia Avenue|Round Lake|NY|12151|WilliamGDouglas@dayrep.com|518-899-5614|42.846395|-73.845914|089-26-5486
+475|Jill|Scott|1756 Summit Street|Bettendorf|IA|52722|JillDScott@gustr.com|563-349-5923|41.655395|-90.363129|480-42-2535
+476|George|Bunch|3828 Vernon Street|San Diego|CA|92123|GeorgeBBunch@jourrapide.com|760-621-2068|32.726428|-117.034461|618-42-4736
+477|Dewey|Robinson|671 Stonepot Road|Plainfield|NJ|07060|DeweyDRobinson@rhyta.com|908-412-0796|40.705853|-74.513986|144-58-8095
+478|James|Foster|596 Michigan Avenue|Claysville|PA|15323|JamesLFoster@fleckens.hu|724-663-3567|40.100173|-80.393557|192-58-8077
+479|Martin|Jackson|295 Twin Oaks Drive|Copemish|MI|49625|MartinBJackson@einrot.com|231-378-7168|44.375353|-85.879865|379-96-1125
+480|Dave|Lemire|2176 Arrowood Drive|Jacksonville|FL|32202|DaveSLemire@dayrep.com|904-482-3200|30.315224|-81.739869|590-93-3073
+481|Michael|Dickens|3909 Simpson Square|Oklahoma City|OK|73102|MichaelGDickens@fleckens.hu|580-574-9530|35.404296|-97.477961|445-01-8652
+482|Joseph|Carter|576 Raintree Boulevard|Blaine|MN|55434|JosephKCarter@fleckens.hu|763-786-7580|45.179219|-93.329824|475-78-2801
+483|Jennifer|Levine|666 Shadowmar Drive|New Orleans|LA|70115|JenniferWLevine@armyspy.com|504-891-7089|29.992197|-90.006461|664-01-7660
+484|Anh|Horne|3178 Mcwhorter Road|Jackson|MS|39211|AnhDHorne@dayrep.com|662-425-6127|32.296076|-90.052403|427-13-3513
+485|Robin|Knox|3261 Simons Hollow Road|Scranton|PA|18503|RobinAKnox@dayrep.com|570-762-0469|41.472656|-75.741816|192-32-4039
+486|William|Kellogg|4134 White River Way|Salt Lake City|UT|84111|WilliamCKellogg@cuvox.de|801-533-7658|40.814031|-111.954877|647-18-7423
+487|Junior|Andrews|1017 Tori Lane|Salt Lake City|UT|84101|JuniorNAndrews@rhyta.com|801-672-6531|40.723018|-111.909969|529-80-8850
+488|Cristy|Powell|3522 Fire Access Road|High Point|NC|27260|CristyJPowell@dayrep.com|336-887-9156|36.030846|-79.914089|237-45-1294
+489|Lawrence|Clemons|2184 Breezewood Court|Parsons|KS|67357|LawrenceJClemons@teleworm.us|620-423-1106|37.294496|-95.178263|514-11-5864
+490|Josephine|Bruner|2089 Friendship Lane|Oakland|CA|94607|JosephineGBruner@teleworm.us|408-661-0727|37.798127|-122.268465|621-80-0578
+491|Louise|Stone|424 Vine Street|North Chicago|IL|60064|LouiseJStone@teleworm.us|847-688-0396|42.221079|-87.952043|356-38-1308
+492|Andrew|Plante|4706 Conifer Drive|Seattle|WA|98109|AndrewSPlante@jourrapide.com|425-458-5544|47.660493|-122.255811|538-21-8258
+493|Gary|Payne|4283 Medical Center Drive|Sarasota|FL|34234|GaryJPayne@teleworm.us|941-360-1422|27.390751|-82.517977|262-46-0156
+494|Paul|Tillman|1426 Powder House Road|Hialeah|FL|33012|PaulCTillman@cuvox.de|561-652-4149|25.800639|-80.285804|266-05-7660
+495|Manuel|Walker|2397 Jones Street|Watauga|TX|76148|ManuelAWalker@superrito.com|817-503-9525|32.906784|-97.353684|466-04-1878
+496|Jeff|Acevedo|4044 Stoney Lonesome Road|Noxen|PA|18636|JeffTAcevedo@gustr.com|570-298-7632|41.393753|-76.092236|185-56-2242
+497|Gerald|Singleton|3926 Hershell Hollow Road|Johnson City|TN|37601|GeraldKSingleton@jourrapide.com|423-929-5025|36.399458|-82.256727|412-26-9020
+498|Joshua|Bryan|3301 Junior Avenue|Atlanta|GA|30303|JoshuaSBryan@teleworm.us|404-642-5102|33.788105|-84.480995|258-82-1887
+499|Fredrick|Elder|191 Pearlman Avenue|Billerica|MA|01821|FredrickMElder@armyspy.com|978-294-4322|42.536276|-71.164961|021-01-1242
+500|Beatrice|Staudt|1193 Prospect Valley Road|Los Angeles|CA|90017|BeatriceEStaudt@rhyta.com|310-956-4612|34.002628|-118.212067|607-55-6206
+501|Valerie|Kemp|2472 Lindale Avenue|San Francisco|CA|94107|ValerieKKemp@armyspy.com|510-497-6151|37.823367|-122.48999|546-42-2631
+502|Robert|Penny|3220 Kuhl Avenue|Atlanta|GA|30303|RobertAPenny@jourrapide.com|678-658-6958|33.844953|-84.461611|260-49-7746
+503|Eric|Coffelt|1183 Burnside Court|Phoenix|AZ|85034|EricLCoffelt@dayrep.com|602-445-5506|33.427791|-112.100927|526-36-8304
+504|Madonna|Walton|2315 Pinewood Drive|Des Plaines|IL|60016|MadonnaAWalton@cuvox.de|847-803-1155|41.9584|-87.906262|337-48-4380
+505|John|Collins|2116 Cliffside Drive|Campbell|NY|14821|JohnECollins@dayrep.com|607-527-8553|42.187704|-77.157819|058-54-8117
+506|Michael|McKinnon|4228 Metz Lane|Carlsbad|CA|92009|MichaelPMcKinnon@armyspy.com|858-212-9830|33.15151|-117.265994|626-80-5696
+507|Carol|Nelson|3206 Westfall Avenue|Luverne|MN|56156|CarolDNelson@fleckens.hu|507-227-3292|43.656069|-96.162994|474-68-3939
+508|Barbara|Lowe|4692 Ryan Road|Sioux Falls|SD|57102|BarbaraFLowe@armyspy.com|605-553-2374|43.548021|-96.72751|503-25-6438
+509|Eric|Fawcett|166 Melm Street|Winter Park|FL|32789|EricKFawcett@dayrep.com|386-960-1497|28.578631|-81.309701|593-06-1575
+510|Raymond|Clark|2424 Tator Patch Road|Chicago|IL|60605|RaymondAClark@cuvox.de|312-913-9825|41.814404|-87.534211|343-92-5204
+511|Reid|Slye|4394 Clearview Drive|Denver|CO|80265|ReidRSlye@rhyta.com|303-704-4892|39.684953|-104.427888|522-94-6849
+512|Glenda|Hadley|739 Reppert Coal Road|Bloomfield Township|MI|48302|GlendaBHadley@fleckens.hu|586-946-8083|42.633832|-83.209343|369-86-9205
+513|Edward|Strother|462 Harvest Lane|Unionville|MO|63565|EdwardSStrother@superrito.com|660-947-5749|40.45188|-92.934792|486-28-6215
+514|Sue|Priestley|4088 Heron Way|Beaver Creek|OR|97004|SueWPriestley@dayrep.com|503-814-7180|45.279217|-122.43926|543-84-6629
+515|Ralph|Treece|114 Bates Brothers Road|Westerville|OH|43081|RalphLTreece@teleworm.us|614-248-3952|40.035189|-82.900983|268-92-9304
+516|Shelia|Clark|2728 Asylum Avenue|Cheshire|CT|06410|SheliaJClark@gustr.com|203-673-9525|41.528608|-72.820553|049-42-0514
+517|Roger|Golston|4048 D Street|Detroit|MI|48226|RogerAGolston@armyspy.com|586-430-4669|42.252898|-83.150452|378-72-4716
+518|Dennis|Starbuck|2847 Wildwood Street|Akron|OH|44303|DennisLStarbuck@teleworm.us|330-713-9302|41.023246|-81.565152|301-70-1822
+519|Clara|Weddle|4908 Farland Street|Chicago|IL|60657|ClaraMWeddle@armyspy.com|773-929-5017|41.98533|-87.652701|331-42-0718
+520|Davina|Peace|3432 Conaway Street|Freelandville|IN|47561|DavinaGPeace@armyspy.com|812-409-9779|38.782916|-87.511964|303-21-9518
+521|Alma|Stanley|2304 Parkview Drive|Anaheim|CA|92801|AlmaWStanley@jourrapide.com|714-269-9525|33.75702|-117.930796|622-02-5676
+522|Jay|Kearney|4900 Marcus Street|Huntsville|AL|35802|JayEKearney@einrot.com|256-562-3859|34.66587|-86.512956|419-46-6482
+523|Kelly|Slaughter|4934 Moore Avenue|Dallas|TX|75234|KellyMSlaughter@jourrapide.com|817-714-6786|32.895664|-96.804311|640-92-4102
+524|Joseph|Christian|4790 Carriage Court|Los Angeles|CA|90017|JosephKChristian@fleckens.hu|760-428-5308|33.967814|-118.257379|604-31-7404
+525|Katrina|Moser|2713 Clearview Drive|Denver|CO|80221|KatrinaKMoser@armyspy.com|303-686-6032|39.905782|-105.035302|651-36-2825
+526|Eric|Mosby|265 Nuzum Court|Buffalo|NY|14214|EricLMosby@fleckens.hu|716-601-0070|42.937885|-78.841146|053-34-7049
+527|Dennis|Crumpton|3034 Pinewood Drive|Gurnee|IL|60031|DennisPCrumpton@rhyta.com|847-856-5377|42.401262|-88.007344|323-56-3811
+528|Brian|Ball|3109 Arrowood Drive|Jacksonville|FL|32204|BrianLBall@rhyta.com|904-401-1671|30.235898|-81.609935|264-87-8449
+529|Meagan|Heinen|2179 Stoney Lonesome Road|Pine Grove (Schuylkill)|PA|17963|MeaganJHeinen@rhyta.com|570-345-6053|40.47075|-76.297764|175-60-8308
+530|Marilyn|Duffy|3475 Skips Lane|Camp Verde|AZ|86322|MarilynJDuffy@teleworm.us|928-567-7288|34.54455|-111.818367|527-05-9716
+531|Timothy|Cheek|2235 Grasselli Street|Merrimack|NH|03054|TimothyACheek@fleckens.hu|603-424-9589|42.87983|-71.494029|001-38-1167
+532|Henry|Schmitz|1920 Shinn Street|New York|NY|10036|HenryMSchmitz@teleworm.us|212-703-2261|40.671011|-74.065538|115-76-1782
+533|John|Ayala|4259 Center Street|Bend|OR|97702|JohnSAyala@gustr.com|541-977-9620|43.971059|-121.187498|540-84-4413
+534|Steven|McKenna|4174 Short Street|Austin|TX|78701|StevenAMcKenna@armyspy.com|512-880-7131|30.270675|-97.684356|645-70-6512
+535|Micheal|Ruffin|4427 Rebecca Street|Chicago|IL|60607|MichealCRuffin@gustr.com|847-730-3542|41.88648|-87.587649|353-72-0342
+536|Cheryl|Fried|1056 Marie Street|Nanticoke|MD|21840|CherylMFried@armyspy.com|410-873-5602|38.302461|-75.892408|213-78-1505
+537|Travis|Sheffield|4699 Gladwell Street|Ore City|TX|75683|TravisSSheffield@fleckens.hu|903-256-4113|32.804304|-94.671561|457-63-5319
+538|Richard|Burke|4508 Cantebury Drive|New York|NY|10007|RichardHBurke@fleckens.hu|646-716-0969|40.65544|-74.106042|128-56-0090
+539|Edna|Gallardo|1841 Elsie Drive|Canistota|SD|57012|EdnaLGallardo@dayrep.com|605-296-6390|43.548239|-97.165951|503-68-0492
+540|Amanda|Smith|2289 Wayside Lane|San Leandro|CA|94578|AmandaBSmith@fleckens.hu|510-258-4186|37.662251|-122.119505|617-56-8685
+541|Michael|Douglas|1485 Reel Avenue|Albuquerque|NM|87108|MichaelEDouglas@rhyta.com|505-321-0238|34.994309|-106.559077|649-18-1960
+542|Ronnie|Dixon|3082 Park Street|Oakland|CA|94607|RonnieADixon@gustr.com|925-367-3512|37.788651|-122.248971|618-62-5877
+543|Luke|Wilson|2354 Passaic Street|Reston|DC|22091|LukeRWilson@gustr.com|202-292-7623|39.056669|-77.293406|578-84-4905
+544|Carl|O'Connor|4254 Jody Road|Media|PA|19063|CarlLOConnor@superrito.com|610-565-5117|39.950365|-75.339814|189-66-8978
+545|Sharon|Gurley|4156 Fulton Street|Wheeling|WV|26003|SharonLGurley@armyspy.com|304-401-8185|40.110573|-80.624418|233-20-5277
+546|Michael|Franks|249 Fowler Avenue|Duluth|GA|30097|MichaelRFranks@jourrapide.com|770-262-1926|33.98438|-84.067411|254-83-8721
+547|Belinda|Bowley|2538 Massachusetts Avenue|Washington|DC|20016|BelindaTBowley@cuvox.de|202-686-5423|38.901926|-77.064471|578-62-7659
+548|Jan|Barnes|4397 Fairway Drive|San Jose|CA|95113|JanRBarnes@cuvox.de|707-509-6848|37.364022|-121.817987|552-82-2461
+549|Kay|Turek|429 Margaret Street|Houston|TX|77021|KayCTurek@armyspy.com|713-889-8092|29.683325|-95.389771|462-55-8449
+550|Keith|Tharp|1691 Williams Lane|Wichita|KS|67202|KeithCTharp@einrot.com|316-361-8700|37.667351|-97.28246|515-01-7109
+551|Nathan|Lewis|4407 Circle Drive|Houston|TX|77032|NathanHLewis@einrot.com|832-452-5359|29.977423|-95.323124|633-32-8381
+552|Richard|Osborne|3644 Pennsylvania Avenue|Jersey City|NJ|07305|RichardSOsborne@rhyta.com|732-333-3086|40.672526|-74.065973|142-06-2890
+553|Rosie|Broadhurst|2260 Shingleton Road|Colon|MI|49040|RosieJBroadhurst@armyspy.com|269-432-5523|42.068341|-85.379989|376-28-4624
+554|Josefina|Guidry|4952 Pointe Lane|Hollywood|FL|33020|JosefinaDGuidry@rhyta.com|954-921-6754|25.953525|-80.241333|263-65-8982
+555|Dewayne|Pena|3513 Thomas Street|Wheeling|IL|60090|DewayneIPena@superrito.com|847-554-6018|42.086422|-87.834959|323-88-9489
+556|Mark|Akins|4767 Zappia Drive|Florence|KY|41042|MarkMAkins@gustr.com|859-371-4267|38.985793|-84.675179|407-57-6508
+557|James|Robinson|2162 Stark Hollow Road|Denver|CO|80202|JamesTRobinson@superrito.com|970-760-3240|39.782286|-104.916211|523-36-0368
+558|Steven|Laurie|3137 Clarence Court|Fayetteville|NC|28301|StevenELaurie@cuvox.de|910-212-9562|34.9416|-78.698673|246-21-1134
+559|Leona|Davis|3473 Hillview Street|Columbia|SC|29203|LeonaJDavis@superrito.com|803-754-7860|34.023858|-81.140183|247-69-4824
+560|Barbara|Carroll|3552 Aviation Way|Los Angeles|CA|90017|BarbaraLCarroll@einrot.com|213-947-7117|34.138852|-118.222188|552-73-7670
+561|Jennifer|Mathis|1842 Spring Haven Trail|Livingston|NJ|07039|JenniferSMathis@einrot.com|973-740-0277|40.773457|-74.400924|148-26-6601
+562|William|Stabile|3090 Saint James Drive|Kirkwood|PA|17536|WilliamSStabile@superrito.com|717-529-0235|39.922107|-76.126931|191-30-2580
+563|Anita|McCullough|3978 River Road|Colorado Springs|CO|80903|AnitaDMcCullough@superrito.com|719-447-0793|38.897602|-104.84645|650-24-8256
+564|Fred|Bennett|3401 Glenview Drive|Kingsville|TX|78363|FredDBennett@jourrapide.com|361-592-5917|27.433806|-97.846149|455-50-2945
+565|Robert|Trigg|3926 Brown Street|Walnut Creek|CA|94596|RobertJTrigg@dayrep.com|925-906-3312|37.895707|-122.070666|550-14-1854
+566|Betty|Wright|3855 Freedom Lane|Merced|CA|95340|BettyMWright@jourrapide.com|209-381-2736|37.377144|-120.413437|616-29-5589
+567|Margie|Buchman|4585 Hilltop Drive|Amarillo|TX|79101|MargieGBuchman@armyspy.com|806-349-3991|35.260408|-101.845256|449-29-5573
+568|Wanda|Scott|209 Colony Street|Meriden|CT|06450|WandaLScott@cuvox.de|203-238-1738|41.599565|-72.777814|044-92-4678
+569|Sara|Wheless|415 Rosewood Court|Mankato|MN|56001|SaraSWheless@cuvox.de|507-327-4160|44.041194|-93.959767|475-40-4641
+570|Gerald|Miles|2036 Maud Street|Philadelphia|DE|19108|GeraldVMiles@teleworm.us|302-723-4416|39.978511|-75.167764|221-90-8650
+571|Terry|Thomas|1565 Cook Hill Road|White Plains|CT|10601|TerrySThomas@rhyta.com|203-542-4325|40.952624|-73.692011|048-02-5647
+572|William|Cohen|1386 Village View Drive|Fort Myers|FL|33901|WilliamDCohen@cuvox.de|239-877-4342|26.53654|-81.8704|595-66-6002
+573|Janie|Goodwin|2096 Green Acres Road|Greenville|NC|27834|JanieJGoodwin@dayrep.com|252-481-1656|35.593621|-77.246897|683-09-1083
+574|Scott|Aquirre|3389 Reynolds Alley|Bellflower|CA|90706|ScottMAquirre@cuvox.de|562-287-9262|33.854157|-118.065039|612-53-9257
+575|Lawrence|Lucas|3467 Pride Avenue|Corona|NY|11368|LawrenceELucas@cuvox.de|718-393-6049|40.82094|-73.877337|078-16-8969
+576|Hershel|Barger|3166 Columbia Mine Road|Charleston|WV|25301|HershelSBarger@rhyta.com|304-590-3329|38.447286|-81.582884|235-18-1461
+577|Jamey|Maynard|2417 Wines Lane|Houston|TX|77063|JameySMaynard@fleckens.hu|832-262-2455|29.771262|-95.460785|457-05-6064
+578|Annalisa|Hale|1461 Leroy Lane|Pikeville|KY|41501|AnnalisaPHale@jourrapide.com|606-205-5919|37.40902|-82.457217|404-96-7996
+579|Donald|Moore|1695 Bel Meadow Drive|Arrowhead|CA|92352|DonaldDMoore@einrot.com|909-337-0079|34.080782|-117.326727|545-87-4423
+580|Melinda|Martin|309 Lyndon Street|New Castle|PA|19720|MelindaHMartin@jourrapide.com|610-742-5861|39.68014|-75.52488|206-42-5552
+581|Deborah|David|2938 Clover Drive|Ordway|CO|81063|DeborahMDavid@dayrep.com|719-267-3199|38.389913|-103.72079|524-08-1087
+582|Mike|Anderson|2190 Rafe Lane|Corinth|MS|38834|MikeCAnderson@jourrapide.com|662-665-7363|34.871284|-88.64826|427-83-3999
+583|Michelle|Scholz|2477 Norma Lane|Shreveport|LA|71101|MichelleAScholz@armyspy.com|318-572-1910|32.522789|-93.687625|438-77-3071
+584|Jeffrey|Willoughby|1304 Coolidge Street|Billings|MT|59101|JeffreyEWilloughby@cuvox.de|406-850-6061|45.574251|-108.33642|516-20-5494
+585|Beverly|Elkins|4925 Fairfax Drive|Piscataway|NJ|08854|BeverlyRElkins@cuvox.de|908-894-7688|40.63251|-74.371394|148-28-4575
+586|Oliver|Lerma|4034 Massachusetts Avenue|Washington|DC|20020|OliverDLerma@jourrapide.com|202-757-0011|38.896911|-76.999526|578-68-2749
+587|Jared|Rodriguez|3898 Doctors Drive|Gardena|CA|90248|JaredERodriguez@armyspy.com|310-418-1490|33.824654|-118.256876|545-10-2478
+588|Edwin|Tanner|775 Hidden Pond Road|Nashville|TN|27215|EdwinMTanner@dayrep.com|615-673-0917|36.073991|-86.718638|409-53-1074
+589|Susan|Estepp|3077 Moore Avenue|Dallas|TX|75240|SusanJEstepp@gustr.com|817-758-8966|32.99889|-96.821221|461-91-4530
+590|Claire|Nance|1976 Scenic Way|Sutter|IL|62373|ClaireJNance@gustr.com|217-658-5407|40.179346|-91.269778|357-56-3906
+591|Dawn|Alexander|3199 Duke Lane|Keyport|NJ|07735|DawnCAlexander@jourrapide.com|732-739-9873|40.455866|-74.198619|150-80-7816
+592|Darrell|Hammer|172 Ingram Road|Roxboro|NC|27573|DarrellCHammer@cuvox.de|336-597-2695|36.477566|-79.021523|689-01-9590
+593|Kevin|Root|1978 Midway Road|Lavaca|AR|72941|KevinNRoot@teleworm.us|479-674-0794|35.446943|-94.214056|432-75-5969
+594|Jennifer|Molina|1773 Melody Lane|Richmond|VA|23220|JenniferGMolina@rhyta.com|804-359-3735|37.513879|-77.412857|228-17-7089
+595|Douglas|Kinley|4728 Pritchard Court|Dodge Center|MN|55927|DouglasJKinley@teleworm.us|507-374-9187|43.997794|-92.766782|470-66-8553
+596|Latonia|Berthold|4502 Simpson Square|Marlow|OK|73055|LatoniaDBerthold@einrot.com|580-658-2069|34.669026|-97.988867|448-62-1195
+597|Ray|Simmons|3275 B Street|Minneapolis|MN|55406|RayCSimmons@gustr.com|651-492-6922|44.877127|-93.135483|477-45-7455
+598|Ella|Pugh|1225 Romrog Way|Grand Island|NE|68801|EllaJPugh@superrito.com|308-249-7811|41.041234|-98.233046|505-76-8619
+599|Anne|Albrecht|3719 Bird Spring Lane|Houston|TX|77077|AnneBAlbrecht@rhyta.com|281-496-9936|29.799544|-95.567927|628-14-6489
+600|Wanda|Ricks|3334 Oak Way|Lincoln|NE|68501|WandaMRicks@superrito.com|402-416-2539|40.826623|-96.638004|505-07-7067
+601|Osvaldo|Chavez|708 Leisure Lane|Los Angeles|CA|90017|OsvaldoMChavez@armyspy.com|805-502-1343|34.117677|-118.278341|606-45-1984
+602|Adam|Shaw|2525 Circle Drive|Houston|TX|77032|AdamSShaw@gustr.com|832-439-6150|29.975113|-95.365919|460-85-3219
+603|Yetta|McKean|2672 Stadium Drive|West Roxbury|MA|02132|YettaJMcKean@dayrep.com|508-237-3596|42.207358|-71.219763|013-84-4880
+604|Wilbur|Fasching|211 Johnson Street|Clinton|NC|28328|WilburMFasching@rhyta.com|919-915-1313|34.978908|-78.287884|245-25-6554
+605|Virginia|Johnson|3447 Hall Place|Texarkana|TX|75501|VirginiaWJohnson@cuvox.de|903-791-2044|33.438055|-94.180395|641-86-9174
+606|William|Levine|375 Poe Road|Houston|TX|77032|WilliamJLevine@dayrep.com|832-863-9873|30.047024|-95.35083|629-20-3291
+607|Stephanie|Pals|2286 Terra Cotta Street|Lengby|MN|56651|StephanieHPals@teleworm.us|218-668-2390|47.423719|-95.671574|476-05-8924
+608|Curtis|Kenny|3628 Birch Street|Indianapolis|IN|46225|CurtisSKenny@teleworm.us|317-807-6265|39.688276|-86.147726|305-29-8997
+609|Betty|Baade|725 Metz Lane|Woburn|MA|01801|BettyGBaade@superrito.com|857-540-5915|42.484037|-71.243234|019-12-0892
+610|Barney|Lima|2424 Beech Street|Antioch|CA|94509|BarneyTLima@jourrapide.com|925-779-5271|37.993167|-121.780096|561-47-3300
+611|Kevin|Dillon|2813 B Street|Eagan|MN|55121|KevinGDillon@einrot.com|651-688-9382|44.884946|-93.185179|475-40-9409
+612|Ellen|Fernandez|2051 Spruce Drive|Pittsburgh|PA|15203|EllenAFernandez@armyspy.com|724-972-3928|40.395694|-79.937313|164-52-9991
+613|Nicole|Craig|3016 Gateway Avenue|Los Angeles|CA|90013|NicoleMCraig@gustr.com|661-993-7943|34.088678|-118.266697|552-69-1585
+614|Elizabeth|Edwards|682 Cambridge Place|Hanover|MD|21076|ElizabethAEdwards@jourrapide.com|410-599-5349|39.164836|-76.708376|219-46-1395
+615|Cynthia|Thompson|576 Marshville Road|West Nyack|NY|10994|CynthiaMThompson@teleworm.us|845-661-8298|41.080452|-73.886165|102-68-0990
+616|Norman|Kaiser|832 Prospect Valley Road|Santa Monica|CA|90404|NormanKKaiser@armyspy.com|310-882-6590|34.044494|-118.419472|625-86-7141
+617|Joseph|Bacon|1600 Stonepot Road|Lebanon (Hunterdon)|NJ|08833|JosephMBacon@armyspy.com|908-437-9580|40.663221|-74.92252|154-04-3521
+618|Marlin|McCarthy|1380 Deercove Drive|Philadelphia|PA|19103|MarlinMMcCarthy@fleckens.hu|215-241-4240|39.995462|-75.248655|190-60-3967
+619|Dexter|Turcotte|4517 Golf Course Drive|Centerville|VA|22020|DexterYTurcotte@teleworm.us|703-324-6936|37.676983|-75.596657|230-07-9994
+620|Thomas|Green|4591 Cantebury Drive|Garden City|NY|11530|ThomasVGreen@rhyta.com|646-549-1569|40.629639|-73.721389|106-36-7132
+621|Brandy|Youngblood|378 Chatham Way|Mc Lean|MD|22102|BrandyMYoungblood@dayrep.com|240-544-0777|39.03348|-77.256185|218-10-0048
+622|Terry|Donovan|1133 Calvin Street|Baltimore|MD|21201|TerryKDonovan@einrot.com|443-412-3926|39.240403|-76.644685|213-78-8399
+623|Rex|McHenry|3979 Laurel Lane|Odessa|TX|79762|RexCMcHenry@armyspy.com|432-366-7738|31.983344|-102.251344|459-32-2370
+624|Kristine|Wormley|3561 Petunia Way|Birmingham|AL|35209|KristineAWormley@teleworm.us|205-790-6294|33.524674|-86.864735|416-23-1474
+625|Rebecca|Ligon|2143 Hilltop Street|Springfield|MA|01103|RebeccaCLigon@teleworm.us|413-642-3519|42.16362|-72.498368|018-66-9173
+626|Dorothy|Krieg|1771 Rosemont Avenue|Melbourne|FL|32901|DorothyJKrieg@dayrep.com|321-728-0141|28.100384|-80.588302|767-38-0239
+627|Robert|Perry|1616 Sherman Street|Rantoul|KS|66079|RobertMPerry@rhyta.com|785-878-5412|38.631025|-95.033765|511-44-4420
+628|Julie|Tynan|989 Hickory Heights Drive|Baltimore|MD|21202|JulieRTynan@armyspy.com|443-852-4439|39.308297|-76.567333|218-46-0208
+629|Jean|Davis|3381 Crim Lane|Dayton|OH|45402|JeanCDavis@dayrep.com|937-774-3893|39.691814|-84.123736|285-01-3291
+630|Samuel|McCarthy|811 Taylor Street|New York|NY|10011|SamuelTMcCarthy@cuvox.de|914-610-1514|40.695823|-74.025606|116-28-0979
+631|Cindy|Wampler|1421 Doe Meadow Drive|Oxon Hill|MD|20021|CindyTWampler@rhyta.com|301-521-0576|38.796245|-76.902622|220-23-7745
+632|Jacklyn|King|127 Spring Street|Maroa|IL|61756|JacklynKKing@fleckens.hu|217-794-4432|40.060211|-88.976538|327-38-6944
+633|Emily|Butts|730 Ingram Road|Greensboro|NC|27401|EmilyKButts@cuvox.de|336-686-8490|36.129896|-79.837427|239-18-2649
+634|William|Bishop|42 West Street|Dutton|MI|49316|WilliamPBishop@rhyta.com|616-698-4844|42.94088|-85.506241|380-94-8432
+635|Chelsey|Jordan|3098 Irish Lane|La Crosse|WI|54601|ChelseyRJordan@rhyta.com|608-724-8043|43.812404|-91.085484|392-74-8356
+636|Christina|Haynes|3295 Doe Meadow Drive|Annapolis Junction|MD|20701|ChristinaBHaynes@cuvox.de|301-512-0085|39.033778|-76.822492|219-67-5327
+637|Arthur|Jones|4702 Hart Ridge Road|Bay City|MI|48706|ArthurLJones@rhyta.com|989-297-3627|43.549556|-83.879851|383-44-4434
+638|Justin|Cohen|874 Patterson Fork Road|Chicago|IL|60605|JustinMCohen@rhyta.com|312-659-5441|41.860031|-87.587903|342-62-9627
+639|Bonnie|Curtis|483 Pinnickinick Street|Seattle|WA|98109|BonnieSCurtis@teleworm.us|360-813-6304|47.725256|-122.4263|539-08-5013
+640|Delmer|Melendez|1099 Corpening Drive|Bloomfield Township|MI|48302|DelmerFMelendez@superrito.com|248-421-7232|42.596859|-83.260866|365-90-0750
+641|Manuel|Washington|592 Elk Street|Laguna Niguel|CA|92677|ManuelBWashington@einrot.com|949-643-5126|33.460467|-117.730947|615-37-1607
+642|Heriberto|Gonzales|2234 Everette Alley|Fort Lauderdale|FL|33301|HeribertoRGonzales@fleckens.hu|954-774-2132|26.211256|-80.150428|592-18-2240
+643|Patricia|Corder|4992 Carolyns Circle|Mc Kinney|TX|75069|PatriciaLCorder@superrito.com|214-733-4558|33.150532|-96.710371|632-44-0691
+644|Steven|Piotrowski|3478 Nickel Road|Los Angeles|CA|90017|StevenJPiotrowski@dayrep.com|626-678-8552|33.993995|-118.194391|617-20-4249
+645|Lillie|Reed|4494 Sarah Drive|Lawtell|LA|70550|LillieDReed@einrot.com|337-543-0030|30.578211|-92.259129|437-25-7413
+646|William|Drew|4543 Andy Street|Sioux Falls|SD|57102|WilliamCDrew@cuvox.de|605-336-7482|43.515632|-96.685712|503-20-2932
+647|Vickie|Shank|4673 Summit Park Avenue|Bloomfield Township|MI|48302|VickieHShank@dayrep.com|248-933-9277|42.592118|-83.233948|375-06-7334
+648|Curtis|Jeter|1252 Elk Rd Little|Albany|NY|12207|CurtisMJeter@dayrep.com|518-974-8726|42.680839|-73.693919|118-20-3897
+649|Lindsey|Eadie|2673 Hartland Avenue|Manitowoc|WI|54220|LindseyBEadie@cuvox.de|920-320-2063|44.163116|-87.785732|387-36-3636
+650|Jesus|Thomas|3222 Coleman Avenue|San Diego|CA|92103|JesusCThomas@teleworm.us|760-825-8265|32.683905|-117.194505|558-32-1543
+651|Darla|Russell|539 Hickory Heights Drive|Columbia|MD|21045|DarlaJRussell@jourrapide.com|443-920-4160|39.13467|-76.827423|219-36-8765
+652|David|Fulton|3967 Pennsylvania Avenue|Piscataway|NJ|08854|DavidVFulton@dayrep.com|732-336-2522|40.630242|-74.365327|155-54-2250
+653|Allen|Schulte|3520 Counts Lane|Paris|KY|40361|AllenCSchulte@superrito.com|859-987-8795|38.160315|-84.179547|406-59-0537
+654|Josefina|Bernard|2522 Grey Fox Farm Road|Houston|TX|77028|JosefinaABernard@teleworm.us|281-781-3379|29.914828|-95.310954|465-10-4239
+655|Timothy|Gomez|3636 Whitetail Lane|Dallas|TX|75201|TimothyEGomez@jourrapide.com|469-244-8308|32.789706|-96.735772|641-01-0973
+656|Jared|Ballard|2434 Echo Lane|Grand Rapids|MI|49503|JaredDBallard@einrot.com|269-760-9566|43.048393|-85.624793|362-33-1685
+657|Jim|Haddad|3225 McKinley Avenue|Englewood|CO|80112|JimIHaddad@cuvox.de|303-754-9136|39.542588|-104.865462|650-14-7864
+658|Eugene|Wilson|1796 Marion Drive|Tampa|FL|33610|EugeneEWilson@cuvox.de|813-298-3891|28.07004|-82.495706|265-02-6647
+659|Melva|Lind|4462 Bruce Street|Saint Louis|MO|63101|MelvaDLind@cuvox.de|314-244-1359|38.71294|-90.187875|496-80-1000
+660|James|Coley|3410 Selah Way|East Fairfield|VT|05448|JamesMColey@superrito.com|802-664-0312|44.818973|-72.849773|008-52-3096
+661|Joshua|Scott|4551 Hickory Heights Drive|Baltimore|MD|21201|JoshuaBScott@jourrapide.com|443-918-0383|39.271652|-76.550668|214-86-2087
+662|Gary|Hines|890 Tanglewood Road|Cleveland|MS|38732|GaryAHines@rhyta.com|662-843-1693|33.767458|-90.634151|428-32-8568
+663|Donna|Humphrey|4944 Ocello Street|San Diego|CA|92103|DonnaJHumphrey@dayrep.com|619-829-1610|32.652741|-117.203973|616-25-0408
+664|Miquel|Davis|2246 Clay Lick Road|Englewood|CO|80112|MiquelRDavis@rhyta.com|720-568-9143|39.605407|-104.821254|651-36-4134
+665|Mike|Beane|3675 Cliffside Drive|Binghamton|NY|13901|MikeHBeane@fleckens.hu|607-322-5304|42.295152|-75.986192|121-78-7141
+666|Patricia|Adams|3835 Grand Avenue|Kissimmee|FL|34746|PatriciaDAdams@armyspy.com|407-787-4636|28.316877|-81.359077|768-38-6472
+667|Helena|Williams|4173 Radford Street|Louisville|KY|40202|HelenaAWilliams@teleworm.us|502-251-9011|38.332355|-85.709839|400-03-8569
+668|Dennis|Theriot|2160 Star Route|Hickory Hills|IL|60457|DennisRTheriot@teleworm.us|708-638-0500|41.641383|-87.88007|323-62-3162
+669|Michael|Favorite|4754 Chandler Hollow Road|Homestead|PA|15120|MichaelPFavorite@cuvox.de|412-464-7522|40.372654|-79.809268|190-72-2568
+670|Jack|Macpherson|1848 Horizon Circle|Seattle|WA|98122|JackMMacpherson@einrot.com|253-632-6445|47.69277|-122.232345|533-30-7496
+671|Mildred|Graham|3002 Rocky Road|Philadelphia|PA|19104|MildredTGraham@jourrapide.com|215-615-2178|39.953069|-75.284988|161-78-2026
+672|Patricia|Mosby|1790 Fort Street|Kent|WA|98032|PatriciaJMosby@einrot.com|253-218-8156|47.396075|-122.321331|535-20-2482
+673|Mary|Sherrod|1473 Snowbird Lane|Seward|NE|68434|MaryASherrod@jourrapide.com|402-641-5753|40.934504|-97.186159|508-86-5039
+674|Johnathan|Eastman|3725 Shady Pines Drive|Paducah|KY|42001|JohnathanCEastman@jourrapide.com|270-967-6731|37.006444|-88.616996|407-03-4116
+675|Laura|Moss|3564 Jerome Avenue|Dallas|TX|75252|LauraRMoss@cuvox.de|956-367-4024|32.978564|-96.747987|641-94-7173
+676|John|Baugh|153 White Oak Drive|Saint Joseph|MO|64501|JohnJBaugh@jourrapide.com|816-689-7843|39.693746|-94.779568|486-82-9849
+677|Virginia|Lewis|4177 Riverside Drive|Chattanooga|GA|30741|VirginiaMLewis@fleckens.hu|706-858-2239|35.136051|-85.324843|670-28-9549
+678|Sharon|Howell|3558 Overlook Drive|Hartford City|IN|47348|SharonDHowell@superrito.com|765-331-3226|40.406049|-85.367152|312-08-8969
+679|Nancy|Ezzell|1304 Myra Street|Cranston|RI|02910|NancyGEzzell@dayrep.com|401-477-6587|41.730987|-71.34439|039-64-5236
+680|Jessica|Nordstrom|699 Plainfield Avenue|Phelps|NY|14532|JessicaKNordstrom@superrito.com|315-548-4648|42.945282|-77.036229|078-24-0355
+681|Maria|Blair|1356 Hood Avenue|Carlsbad|CA|92009|MariaJBlair@rhyta.com|858-829-4891|33.065911|-117.335242|602-80-4941
+682|Frances|Pringle|1579 Flynn Street|Cleveland|OH|44115|FrancesEPringle@rhyta.com|440-996-7411|41.516617|-81.685101|274-50-2561
+683|Christopher|Escobar|3847 Rebecca Street|Elk Grove Village|IL|60007|ChristopherSEscobar@fleckens.hu|847-734-6318|41.984236|-87.958021|328-03-2805
+684|Ryan|Williams|4109 Chatham Way|Washington|MD|20005|RyanCWilliams@jourrapide.com|240-691-3152|38.836992|-77.03081|220-39-5359
+685|Christian|Price|3895 Columbia Road|Philadelphia|DE|19146|ChristianTPrice@superrito.com|302-829-6536|39.949825|-75.18954|221-90-7270
+686|Jana|Clough|2131 Harry Place|Concord|NC|28025|JanaDClough@jourrapide.com|704-789-0141|35.379198|-80.440162|244-28-7833
+687|Robert|Harper|1761 Ventura Drive|Santa Cruz|CA|95060|RobertAHarper@gustr.com|831-460-3005|37.119231|-122.03266|622-46-3884
+688|Richard|Pewitt|3959 Barfield Lane|Indianapolis|IN|46250|RichardMPewitt@einrot.com|317-594-0869|39.95813|-86.023362|305-74-4877
+689|Cynthia|Johnson|3573 Hardman Road|Rutland|VT|05701|CynthiaBJohnson@jourrapide.com|802-775-9735|43.566627|-72.81362|009-74-3078
+690|Barbara|Nichols|4398 Farland Street|Taunton|MA|02780|BarbaraTNichols@dayrep.com|774-218-7848|41.820929|-71.15821|024-60-2266
+691|Sharon|Wood|1073 Burwell Heights Road|Nederland|TX|77627|SharonPWood@teleworm.us|409-727-8468|30.022784|-93.957916|460-41-6635
+692|Harold|Lopez|2204 Crosswind Drive|Bowling Green|KY|42101|HaroldMLopez@einrot.com|270-854-4965|37.027669|-86.352135|407-09-0094
+693|Betty|Thomas|3467 Paradise Lane|Riverside|CA|92507|BettyEThomas@jourrapide.com|909-646-4460|34.025824|-117.256755|568-82-6530
+694|Aaron|Armstrong|1248 Bridge Avenue|Starks|LA|70661|AaronAArmstrong@superrito.com|337-743-4392|30.452993|-93.606377|661-07-5331
+695|Denise|Hindman|17 Hillside Drive|Parks|LA|70582|DeniseJHindman@fleckens.hu|337-845-5072|30.286585|-91.898033|435-62-8488
+696|Amy|Bumpus|2187 Cook Hill Road|Meriden|CT|06450|AmyCBumpus@superrito.com|203-525-5620|41.577818|-72.82209|044-82-5377
+697|Rachel|Locklear|1954 Middleville Road|Sherman Oaks|CA|91403|RachelWLocklear@rhyta.com|626-315-4853|34.122269|-118.3806|625-78-7241
+698|Christopher|Pate|116 Saint Marys Avenue|Syracuse|NY|13202|ChristopherBPate@superrito.com|315-809-4865|43.139006|-76.251513|127-16-8987
+699|Deborah|Hathaway|375 Parkway Drive|Tucson|AZ|85701|DeborahGHathaway@dayrep.com|520-360-4541|32.305354|-110.936114|601-74-9282
+700|Victoria|Couture|2541 Coal Road|Bentley Creek|PA|16925|VictoriaSCouture@dayrep.com|570-596-9064|41.997201|-76.757941|163-09-7753
+701|Laura|Boehme|2616 Poplar Lane|Doral|FL|33178|LauraJBoehme@cuvox.de|305-594-7198|25.893221|-80.406127|769-28-5844
+702|William|Funchess|4667 Pratt Avenue|Tukwila|WA|98168|WilliamKFunchess@armyspy.com|360-926-7801|47.440112|-122.182029|531-31-2025
+703|Kristy|Ortiz|722 Lakewood Drive|Hackensack|NJ|07601|KristyTOrtiz@gustr.com|201-836-5867|40.936147|-74.02344|152-03-8255
+704|Robert|Roye|2984 Lilac Lane|Douglas|GA|31533|RobertJRoye@jourrapide.com|912-383-1214|31.504149|-82.914368|670-30-2374
+705|John|Merrill|3471 Rockwell Lane|New Bern|NC|28560|JohnEMerrill@superrito.com|252-633-0781|35.096422|-76.988425|682-07-5752
+706|Jeff|Pruitt|4043 Fantages Way|South Portland|ME|04106|JeffIPruitt@fleckens.hu|207-741-3222|43.720991|-70.213477|005-56-9700
+707|Emmie|Curtin|774 Carriage Court|Carlsbad|CA|92008|EmmieBCurtin@fleckens.hu|760-434-0873|33.105667|-117.280995|625-15-6848
+708|Victoria|Schaible|3693 Glen Street|Hopkinsville|KY|42240|VictoriaBSchaible@teleworm.us|270-348-8221|36.869865|-87.43659|404-02-5680
+709|Marilyn|Waggener|3541 Brentwood Drive|Austin|TX|78702|MarilynHWaggener@teleworm.us|512-738-8202|30.333546|-97.650875|645-66-6328
+710|David|Dent|3003 Echo Lane|Grand Rapids|MI|49503|DavidRDent@superrito.com|269-757-7368|43.021494|-85.573014|383-20-0021
+711|Sandra|Ward|3809 Lords Way|Bolivar|TN|38008|SandraMWard@cuvox.de|731-659-5254|35.279393|-88.964682|412-20-3854
+712|William|Brawley|3685 Bailey Drive|Cedar Rapids|IA|52404|WilliamJBrawley@gustr.com|319-457-8880|41.832792|-91.644967|479-22-2676
+713|Donna|Engel|1926 Liberty Street|Plano|TX|75074|DonnaKEngel@teleworm.us|214-910-5291|33.075725|-96.585125|645-05-5884
+714|Sarah|Harpe|1669 Mill Street|Greenville|SC|29601|SarahDHarpe@rhyta.com|864-290-9047|34.834551|-82.30771|654-10-9164
+715|Beverly|Martin|3790 Turkey Pen Road|Huntington|NY|11743|BeverlyBMartin@dayrep.com|917-226-5851|40.806289|-73.335363|053-84-6207
+716|Janice|Thomas|2632 Elkview Drive|Miami|FL|33131|JaniceHThomas@einrot.com|772-264-0818|25.764151|-80.158502|266-63-2077
+717|Roger|Hara|56 Froe Street|Charleston|WV|25301|RogerEHara@teleworm.us|304-307-2762|38.316547|-81.698537|234-27-4977
+718|Agustin|McClanahan|1363 Ethels Lane|Avon Park|FL|33825|AgustinCMcClanahan@rhyta.com|863-664-7371|27.671865|-81.496186|591-82-2562
+719|Jose|Bramble|1333 Wildwood Street|Kent|OH|44240|JoseABramble@gustr.com|330-676-8945|41.192043|-81.391719|291-02-7838
+720|Pauline|Washington|3609 Wright Court|Cahaba Heights|AL|35242|PaulineJWashington@armyspy.com|205-981-0504|33.37784|-86.74781|416-22-8298
+721|Charles|Felix|586 Pine Tree Lane|Greenbelt|MD|20770|CharlesMFelix@jourrapide.com|240-383-7663|39.079782|-76.895642|214-08-0105
+722|Galen|Knight|4662 Peck Court|Fullerton|CA|93632|GalenDKnight@jourrapide.com|949-463-4743|33.874598|-117.96773|608-54-8647
+723|Jonathan|Roman|2111 Alexander Avenue|San Jose|CA|95113|JonathanRRoman@jourrapide.com|925-517-8912|37.358286|-121.831374|617-28-1313
+724|Tom|Craig|3143 Doe Meadow Drive|Oxon Hill|MD|20021|TomYCraig@dayrep.com|301-521-4308|38.863465|-77.082011|212-02-6444
+725|Jean|Noe|2724 Rockford Road|Cambridge|MA|02141|JeanJNoe@gustr.com|774-999-3023|42.463511|-71.079781|012-07-2609
+726|Michael|Ridlon|825 Dawson Drive|Little Rock|AR|72212|MichaelCRidlon@rhyta.com|501-902-7201|34.823008|-92.461993|432-88-9932
+727|Willie|Eden|2494 Franklin Street|Enterprise|AL|36330|WillieDEden@jourrapide.com|334-733-1933|31.349023|-85.93376|417-31-1701
+728|Javier|Mysliwiec|2804 Shadowmar Drive|Metairie|LA|70006|JavierDMysliwiec@jourrapide.com|504-889-2323|30.032763|-90.202624|663-09-7869
+729|Nancy|Cano|4338 Wilson Street|Los Angeles|CA|90017|NancyACano@dayrep.com|760-973-8633|34.116721|-118.263652|606-70-8531
+730|Inez|Higgins|2368 Peck Street|Bethlehem|NH|03574|InezCHiggins@jourrapide.com|603-869-8653|44.275281|-71.722758|002-78-2233
+731|Joseph|Welch|2666 Blue Spruce Lane|Baltimore|MD|21202|JosephMWelch@superrito.com|410-365-2218|39.378729|-76.612358|215-19-2274
+732|Bertha|Welke|3566 Melrose Street|Yakima|WA|98901|BerthaDWelke@armyspy.com|509-985-3331|46.686132|-120.337432|539-10-5033
+733|Susan|Brown|4586 Lucky Duck Drive|Monroeville|PA|15146|SusanSBrown@dayrep.com|412-856-6913|40.520631|-79.727874|172-38-0123
+734|Tony|Stoltzfus|2955 Pooz Street|Toms River|NJ|08753|TonyPStoltzfus@einrot.com|732-240-9825|39.987627|-74.181594|153-56-7602
+735|Shawn|Laird|3807 Wayside Lane|San Jose|CA|95131|ShawnMLaird@jourrapide.com|510-239-6047|37.323361|-121.976174|559-50-6414
+736|Vernon|Cuomo|4644 Blue Spruce Lane|Elkton|MD|21921|VernonNCuomo@einrot.com|410-392-8928|39.670937|-75.776749|214-84-7193
+737|Joseph|Dyal|1659 College Avenue|Dayton|OH|45434|JosephGDyal@einrot.com|937-426-4472|39.632444|-83.97491|300-08-9954
+738|Nieves|Williams|3310 Godfrey Road|New York|NY|10003|NievesDWilliams@teleworm.us|212-533-7551|40.687737|-74.037476|069-36-1835
+739|Paul|Munsch|391 Golf Course Drive|Manassas|VA|22110|PaulKMunsch@einrot.com|703-367-1325|38.717644|-77.535909|693-03-2620
+740|Paul|Crosson|3535 Maloy Court|Hope|KS|67451|PaulMCrosson@fleckens.hu|785-349-8074|38.811038|-97.151682|515-04-0874
+741|Joshua|Harris|1822 Shinn Avenue|Greenville|PA|16125|JoshuaKHarris@dayrep.com|724-588-4171|41.400386|-80.287434|196-28-4690
+742|Michael|Carroll|4035 Hornor Avenue|Tulsa|OK|74119|MichaelLCarroll@teleworm.us|918-347-7830|36.177644|-95.908632|440-06-5062
+743|Curtis|Jackson|856 Granville Lane|Whippany|NJ|07981|CurtisMJackson@jourrapide.com|973-428-8949|40.921506|-74.409966|139-06-5372
+744|Christopher|Tucker|1065 Par Drive|Sherman Oaks|CA|91403|ChristopherBTucker@jourrapide.com|805-753-8522|34.101377|-118.486267|614-06-7210
+745|Kathryn|Rivera|4006 Prudence Street|Dearborn|MI|48126|KathrynFRivera@cuvox.de|313-336-5655|42.306195|-83.206484|380-22-8755
+746|James|Berry|2671 Dogwood Road|Phoenix|AZ|85012|JamesRBerry@teleworm.us|602-664-4611|33.533895|-112.061596|600-58-6081
+747|John|Matheny|3321 Wilkinson Court|Fort Myers|FL|33905|JohnMMatheny@teleworm.us|239-745-3130|26.595913|-81.71255|264-54-4022
+748|John|Sibley|3672 Pickens Way|Denison|TX|75020|JohnCSibley@einrot.com|903-415-2430|33.765303|-96.65766|462-86-6316
+749|Stanley|Hiatt|3514 Stonecoal Road|Toledo|OH|43604|StanleyLHiatt@rhyta.com|419-519-2692|41.746281|-83.498141|296-28-0947
+750|Lee|Armand|1337 Green Hill Road|Bentonville|AR|72712|LeeJArmand@jourrapide.com|479-224-2416|36.285348|-94.349921|678-10-3807
+751|Catherine|Stephens|2331 Birch Street|Greenwood|IN|46142|CatherineWStephens@dayrep.com|317-885-4028|39.668324|-86.077953|309-03-0550
+752|Larry|Phillips|504 Haymond Rocks Road|Boardman|OR|97818|LarryTPhillips@armyspy.com|541-481-4649|45.769983|-119.436225|542-64-8106
+753|Rick|Albert|1978 Willow Greene Drive|Crestview|AL|32536|RickJAlbert@cuvox.de|334-256-8435|30.627436|-86.659394|416-80-8399
+754|Sylvia|Stevenson|3458 Sycamore Circle|Dallas|TX|75234|SylviaCStevenson@jourrapide.com|682-560-8386|32.89053|-96.917104|638-56-5064
+755|Linda|Sykes|2045 Perine Street|Mclean|VA|22101|LindaBSykes@fleckens.hu|703-749-9709|39.003827|-77.121587|691-03-7541
+756|Louise|McKinney|421 Whitman Court|Stamford|CT|06902|LouiseBMcKinney@teleworm.us|203-566-5549|41.036338|-73.623049|046-96-7872
+757|Nancy|Roberts|2477 Shinn Street|New York|NY|10019|NancyTRoberts@armyspy.com|212-698-2997|40.704887|-73.998889|109-64-7584
+758|Fredrick|Williams|195 Farland Street|Chicago|IL|60657|FredrickLWilliams@rhyta.com|773-935-9864|42.006577|-87.750411|353-94-4850
+759|Tracey|Phillips|4732 Lochmere Lane|Hartford|CT|06103|TraceyRPhillips@dayrep.com|860-363-5239|41.728108|-72.615617|048-09-5659
+760|Pedro|Towns|4266 Rivendell Drive|Wooster|OH|44691|PedroLTowns@teleworm.us|330-778-0745|40.906455|-81.983893|279-90-2140
+761|Peggy|Long|4580 Maloy Court|Topeka|KS|66608|PeggyWLong@gustr.com|785-430-5188|39.010683|-95.74052|509-08-8586
+762|Philip|Cruz|2879 Harrison Street|San Francisco|CA|94108|PhilipKCruz@superrito.com|415-501-8754|37.879071|-122.496348|609-08-6164
+763|Stan|Stern|891 Sugar Camp Road|Mankato|MN|56001|StanEStern@dayrep.com|507-559-0465|44.061038|-93.956864|477-28-2688
+764|Opal|Ramsey|4380 Margaret Street|Houston|TX|77026|OpalSRamsey@einrot.com|713-843-9652|29.845581|-95.265829|459-60-4435
+765|Harold|Storey|3740 Beechwood Drive|Hanover|MD|21076|HaroldRStorey@dayrep.com|410-971-7999|39.145724|-76.706481|212-31-6955
+766|Sandra|Martin|1471 Lilac Lane|Waycross|GA|31501|SandraWMartin@fleckens.hu|912-490-4449|31.155972|-82.283456|672-09-9334
+767|Megan|Reeves|2182 Burton Avenue|Memphis|TN|38115|MeganMReeves@cuvox.de|901-643-1186|34.976434|-89.875597|759-01-7779
+768|John|Swarey|3080 Chipmunk Lane|Portland|ME|04101|JohnMSwarey@armyspy.com|207-253-2410|43.756574|-70.299607|006-72-8147
+769|Thomas|Edison|717 Spring Street|Danville|IL|61832|ThomasJEdison@superrito.com|217-808-4067|40.178535|-87.722205|329-40-1297
+770|Thomas|Turner|4112 May Street|Lexington|KY|40505|ThomasJTurner@gustr.com|606-292-6873|38.031991|-84.459776|400-01-1000
+771|Alberta|Oates|3746 Hardesty Street|Albany|NY|12207|AlbertaBOates@fleckens.hu|518-421-2504|42.618478|-73.804383|054-96-8051
+772|Rose|Taylor|1343 Tail Ends Road|Milwaukee|WI|53202|RoseSTaylor@armyspy.com|920-597-7992|43.035982|-87.838256|395-54-6262
+773|Shirley|Manzella|1042 Leverton Cove Road|Palmer|MA|01069|ShirleyAManzella@jourrapide.com|413-289-4195|42.149395|-72.253227|011-88-6691
+774|Ruth|Foster|419 Harley Brook Lane|Youngsville|PA|16371|RuthCFoster@superrito.com|814-563-8524|41.950875|-79.286162|199-34-4919
+775|Shirley|Wilhelm|2674 Francis Mine|Lake Almanor|CA|96137|ShirleyRWilhelm@dayrep.com|530-259-7035|40.360127|-121.242432|567-30-6728
+776|Joanne|Stallman|3819 Oxford Court|Corinth|MS|38834|JoanneBStallman@gustr.com|662-286-6266|34.935787|-88.582274|427-83-9410
+777|Veronica|Shire|4097 Chapmans Lane|Albuquerque|NM|87110|VeronicaBShire@armyspy.com|505-855-0117|35.016486|-106.49232|525-80-5760
+778|Rosella|Folsom|4693 Turnpike Drive|Gadsden|AL|35901|RosellaJFolsom@teleworm.us|256-388-4820|34.042558|-86.019914|420-15-8720
+779|Robert|Antunez|4308 Paradise Lane|Pomona|CA|91766|RobertAAntunez@einrot.com|909-747-9749|34.11931|-117.821754|605-03-2867
+780|Kirk|Golden|3044 Davis Street|Columbus|GA|31901|KirkFGolden@jourrapide.com|706-317-1953|32.524261|-85.045341|675-24-9471
+781|Jason|Sallee|218 Kelly Drive|Wheeling|WV|26003|JasonPSallee@fleckens.hu|304-914-1832|40.105644|-80.549083|234-40-5532
+782|Alfred|Jackson|4682 Euclid Avenue|Irvine|CA|92614|AlfredKJackson@einrot.com|805-302-9343|33.697045|-117.827461|616-51-8116
+783|Edward|Sims|4285 Filbert Street|Harrisburg|PA|17109|EdwardASims@fleckens.hu|610-813-1840|40.320868|-76.821241|208-03-3765
+784|Tracy|Barrett|4702 Sycamore Lake Road|Juneau|WI|53039|TracyBBarrett@gustr.com|920-386-9870|43.275696|-88.766593|394-34-1180
+785|Linda|Valdes|2273 McVaney Road|Asheville|NC|28803|LindaWValdes@gustr.com|828-206-8908|35.503972|-82.518693|683-03-9418
+786|Josue|Banks|497 Rocket Drive|Minneapolis|MN|55402|JosueLBanks@gustr.com|612-976-1013|45.073911|-93.323497|470-58-5167
+787|Leslie|Reinhardt|3201 Quilly Lane|Columbus|OH|43215|LeslieJReinhardt@cuvox.de|614-561-8037|39.976059|-82.941738|291-07-6152
+788|Shannon|Picklesimer|3172 Joseph Street|New Berlin|WI|53151|ShannonJPicklesimer@dayrep.com|262-844-3531|42.876906|-88.004668|399-70-0075
+789|Samuel|Dreher|4035 Hillview Street|Irmo|SC|29063|SamuelTDreher@cuvox.de|803-732-0042|34.205075|-81.239484|248-42-8229
+790|Tasha|Holt|3328 Michigan Avenue|Kittanning|PA|16201|TashaDHolt@armyspy.com|724-596-6923|40.855526|-79.493436|167-05-8095
+791|Hugh|Fleming|3889 Franklee Lane|Philadelphia|PA|19108|HughMFleming@gustr.com|484-581-4774|39.930595|-75.206823|159-18-0663
+792|Agnes|Bender|1113 Northwest Boulevard|Washington|DC|20005|AgnesWBender@cuvox.de|202-208-4297|38.917105|-77.127358|578-92-4746
+793|Helga|Davis|1832 Harper Street|Louisville|KY|40204|HelgaDDavis@einrot.com|270-491-8334|38.254471|-85.812245|403-28-7337
+794|Jonathan|Conaway|1514 Everette Alley|Sunrise|FL|33351|JonathanWConaway@cuvox.de|954-748-7544|26.160515|-80.204804|263-49-2218
+795|Daniel|Johnson|3530 Maud Street|Wilmington|DE|19801|DanielBJohnson@gustr.com|302-651-9246|39.786962|-75.498263|222-92-2599
+796|Vera|Elam|1417 Haul Road|Plymouth|MN|55441|VeraAElam@dayrep.com|651-259-1877|44.940625|-93.518918|472-07-1092
+797|Alexis|Harris|1989 Williams Lane|Wichita|KS|67202|AlexisAHarris@superrito.com|316-530-5288|37.630738|-97.262171|512-68-3923
+798|Robert|Heier|2738 Walnut Street|Vicksburg|MS|39180|RobertBHeier@fleckens.hu|601-619-3457|32.169915|-90.917236|587-76-6996
+799|Joan|Lazarus|2480 Patterson Street|Houston|TX|77002|JoanMLazarus@jourrapide.com|713-236-9347|29.794512|-95.413288|457-74-1322
+800|Ryan|Caldwell|4744 Quiet Valley Lane|Montrose|CA|91214|RyanVCaldwell@superrito.com|818-957-4418|34.224205|-118.276154|607-92-0623
+801|Jerry|Bell|415 Richison Drive|Rudyard|MT|59540|JerryKBell@jourrapide.com|406-355-9104|48.362511|-110.578043|516-05-5990
+802|Bonita|Figueroa|2687 James Street|Buffalo|NY|14202|BonitaMFigueroa@cuvox.de|585-543-9122|42.888429|-78.845006|118-94-3846
+803|Paul|Lopez|2897 Frum Street|Nashville|TN|37201|PaulJLopez@cuvox.de|615-261-1680|36.20711|-86.872746|759-01-8664
+804|Justin|Jordan|3885 Taylor Street|New York|NY|10007|JustinJJordan@teleworm.us|914-649-6466|40.660561|-73.976512|119-16-7082
+805|Allison|Cobb|1680 Kildeer Drive|Portsmouth|VA|23707|AllisonSCobb@superrito.com|757-274-5674|36.743912|-76.32966|693-01-9468
+806|Gloria|Bohner|2411 Metz Lane|Dedham|MA|02026|GloriaBBohner@gustr.com|857-499-6186|42.340655|-71.215602|011-60-4180
+807|Bryan|Pack|4719 Pursglove Court|Dayton|OH|45402|BryanPPack@gustr.com|937-284-5155|39.775848|-84.155542|280-72-8331
+808|Randall|Corrado|1011 Union Street|Seattle|WA|98107|RandallICorrado@superrito.com|206-783-1245|47.718761|-122.35419|534-23-8729
+809|Lesha|Harmon|4945 Cottonwood Lane|Grand Rapids|MI|49503|LeshaVHarmon@gustr.com|616-235-5583|42.993183|-85.645871|381-72-2012
+810|Pedro|Anderson|3216 Flynn Street|Solon|OH|44139|PedroVAnderson@cuvox.de|440-836-2593|41.39554|-81.408164|302-80-5422
+811|Joey|Anderson|4426 Rowes Lane|Glasgow|KY|42141|JoeyBAnderson@rhyta.com|270-659-9622|36.858|-85.881923|404-45-4513
+812|George|Allen|1854 Fidler Drive|San Antonio|TX|78227|GeorgeJAllen@fleckens.hu|210-645-1563|29.43629|-98.628149|465-18-4010
+813|Kevin|Wilson|2092 Coolidge Street|Bozeman|MT|59715|KevinCWilson@einrot.com|406-994-5779|45.868626|-111.03464|516-38-4478
+814|Donald|Griffith|2879 Southern Avenue|Ottumwa|IA|52501|DonaldEGriffith@fleckens.hu|641-455-3488|41.078767|-92.322819|483-38-0930
+815|Helen|Prestridge|1772 Goldleaf Lane|Newark|NJ|07102|HelenDPrestridge@rhyta.com|201-661-8504|40.808588|-74.223887|157-18-0088
+816|Ivy|Reeves|3959 Woodlawn Drive|New Berlin|WI|53151|IvyLReeves@armyspy.com|414-704-6606|42.974345|-88.187279|397-58-8493
+817|Tracey|Castro|29 Sherman Street|Fort Worth|KS|76102|TraceyDCastro@jourrapide.com|785-892-0410|32.737587|-97.333987|511-22-7243
+818|Olga|Hackler|165 Kooter Lane|Charlotte|NC|28210|OlgaBHackler@jourrapide.com|704-424-5051|35.068077|-80.947997|240-23-1433
+819|Michael|Morrison|1150 McDonald Avenue|Saint Cloud|FL|34769|MichaelKMorrison@cuvox.de|407-957-2290|28.288231|-81.317177|263-93-6459
+820|Paul|Kidd|3601 Oak Avenue|Deerfield|IL|60015|PaulVKidd@rhyta.com|847-948-5972|42.094799|-87.901147|318-64-8025
+821|Michael|Daniels|372 Ashwood Drive|Palmer|IA|50571|MichaelDDaniels@einrot.com|712-359-8687|42.718331|-94.58272|478-06-1875
+822|Kenneth|Hugley|3879 Rogers Street|Cincinnati|OH|45202|KennethMHugley@fleckens.hu|513-602-0354|39.10215|-84.574829|298-64-4330
+823|Lillian|Chilton|3849 Kemper Lane|Orem|UT|84058|LillianLChilton@cuvox.de|801-863-7951|40.273353|-111.665872|646-80-2104
+824|Daniel|Cotton|4402 Thompson Drive|Oakland|CA|94612|DanielACotton@armyspy.com|510-422-0113|37.837299|-122.209059|626-82-4050
+825|Dawn|Whiteside|3671 Copperhead Road|Wapping|CT|06074|DawnJWhiteside@teleworm.us|860-648-1475|41.792707|-72.638782|041-28-7778
+826|William|Bacon|4267 Short Street|Austin|TX|78741|WilliamMBacon@einrot.com|512-944-2007|30.289657|-97.626094|631-24-7904
+827|Mary|Pickard|4966 Brownton Road|Starkville|MS|39759|MaryFPickard@superrito.com|662-338-5599|33.445501|-88.811885|587-91-6850
+828|Terry|Wyllie|1520 Westfall Avenue|Rochester|MN|55904|TerryDWyllie@superrito.com|507-208-8338|44.001917|-92.368278|475-06-1318
+829|Diane|Rivers|4731 Cook Hill Road|East Haven|CT|06512|DianeRRivers@armyspy.com|203-469-8174|41.330499|-72.962879|047-46-5462
+830|Tina|Franklin|3280 Oak Street|Syracuse|NY|13206|TinaSFranklin@dayrep.com|315-383-1287|42.996185|-76.206527|115-48-0482
+831|Deborah|Levey|3389 Alfred Drive|New York|NY|10013|DeborahLLevey@armyspy.com|718-219-5890|40.654845|-74.001698|072-20-6304
+832|John|Peck|1099 School Street|East Hartford|CT|06108|JohnFPeck@dayrep.com|203-766-7884|41.799344|-72.696003|049-28-0298
+833|Marc|Reed|4618 Seth Street|Lubbock|TX|79414|MarcDReed@superrito.com|325-374-5920|33.557204|-101.871876|449-80-7144
+834|Elwood|Andrews|611 Spirit Drive|Wellborn|FL|32094|ElwoodSAndrews@rhyta.com|386-590-9746|30.193681|-82.736525|767-44-5358
+835|Dorothy|Kenney|1130 Ingram Street|Dayton|OH|45402|DorothyRKenney@einrot.com|937-554-2571|39.689242|-84.245348|294-26-4896
+836|Rebecca|Horan|1932 Pooh Bear Lane|Greenville|SC|29601|RebeccaSHoran@superrito.com|864-660-3019|34.931087|-82.415911|251-28-3518
+837|Jeffrey|Troxell|4719 Airplane Avenue|Hartford|CT|06103|JeffreyETroxell@einrot.com|860-915-0439|41.822395|-72.620605|047-46-6742
+838|Ellie|Wilson|155 Post Avenue|Buhl|MN|55713|EllieCWilson@superrito.com|218-929-5069|47.413792|-92.713438|477-09-9428
+839|Jennie|Clark|344 Twin Oaks Drive|Charlevoix|MI|49720|JennieRClark@armyspy.com|231-547-1945|45.330587|-85.27916|377-64-8226
+840|Dianna|Hird|3336 Bell Street|New York|NY|10018|DiannaZHird@armyspy.com|212-244-7445|40.720417|-73.948969|084-94-4063
+841|Marjorie|Fung|3041 Joyce Street|Mobile|AL|36693|MarjorieTFung@fleckens.hu|251-714-5995|30.719955|-88.084392|423-74-7984
+842|Debra|Duncan|4826 Eagle Lane|Park Rapids|MN|56470|DebraJDuncan@rhyta.com|218-732-4946|47.018325|-95.142425|476-70-0739
+843|Patricia|Hetzel|487 Alpaca Way|Santa Ana|CA|92701|PatriciaJHetzel@teleworm.us|714-667-7822|33.674937|-117.866719|612-68-8298
+844|Catherine|Slaughter|3162 Whaley Lane|Milwaukee|WI|53203|CatherineSSlaughter@superrito.com|262-478-0571|43.047962|-87.888406|393-98-3078
+845|Patricia|Garzon|3896 Birch  Street|El Paso|TX|79930|PatriciaCGarzon@teleworm.us|915-565-7478|31.733844|-106.381759|633-32-9798
+846|Brenda|Hanning|3543 Jarvis Street|Buffalo|NY|14202|BrendaMHanning@einrot.com|716-951-1580|42.899742|-78.790279|116-88-0059
+847|Victor|Long|4010 Parrill Court|Crown Point|IN|46307|VictorALong@einrot.com|219-525-9227|41.477482|-87.27509|309-23-3232
+848|Clifford|Walker|694 Cherry Camp Road|Burr Ridge|IL|60527|CliffordKWalker@gustr.com|773-460-7550|41.665369|-87.940932|358-70-6076
+849|Jennifer|Carroll|1600 Raoul Wallenberg Place|Orange|CT|06477|JenniferTCarroll@teleworm.us|203-891-1091|41.233141|-73.119844|040-22-5769
+850|Mark|Curley|3816 Seneca Drive|Portland|OR|97232|MarkICurley@gustr.com|503-984-4241|45.494043|-122.646623|544-67-9925
+851|Palma|Holliday|2136 Anmoore Road|Staten Island|NY|10301|PalmaMHolliday@einrot.com|718-816-3808|40.691762|-74.049837|098-52-3618
+852|Janice|Moody|1060 Aspen Court|Cambridge|MA|02138|JaniceJMoody@rhyta.com|617-384-4995|42.338204|-71.066806|024-78-4719
+853|Celia|Lopez|4905 Dale Avenue|Tacoma|WA|98433|CeliaDLopez@cuvox.de|253-912-9031|47.073289|-122.573217|536-74-2547
+854|William|Parr|2020 Millbrook Road|Elmhurst|IL|60126|WilliamAParr@cuvox.de|630-758-3237|41.970635|-87.851478|323-18-0196
+855|Marie|Simek|2406 Armory Road|Wilmington|NC|28401|MarieCSimek@cuvox.de|910-817-5063|34.322705|-77.956448|688-05-6773
+856|Charita|Jenning|3485 Hide A Way Road|San Jose|CA|95136|CharitaKJenning@teleworm.us|408-281-4565|37.319988|-121.76289|545-82-5625
+857|Todd|Evans|1015 Black Oak Hollow Road|Sunnyvale|CA|94086|ToddPEvans@teleworm.us|408-705-6090|37.285129|-122.040931|626-34-3906
+858|Christie|Zoeller|137 Pickens Way|Longview|TX|75601|ChristieJZoeller@einrot.com|903-387-3991|32.4227|-94.690284|459-64-4924
+859|Bret|Martinez|1290 Green Avenue|Berkeley|CA|94704|BretOMartinez@dayrep.com|510-843-0773|37.951045|-122.339017|566-30-8299
+860|Mathew|Coachman|2437 Jessie Street|Athens|OH|45701|MathewJCoachman@dayrep.com|740-593-5865|39.392647|-81.990401|302-60-8087
+861|Brian|Weiss|4921 Spring Avenue|Lansdale|PA|19446|BrianMWeiss@superrito.com|267-640-0440|40.142178|-75.222092|208-68-1156
+862|Amy|West|1672 Tea Berry Lane|Wausau|WI|54401|AmyRWest@rhyta.com|715-783-0332|44.921936|-89.686329|391-12-8548
+863|Harlan|Evans|1734 Tecumsah Lane|Shreveport|LA|71106|HarlanAEvans@superrito.com|318-866-2396|32.39147|-93.825744|659-09-4870
+864|Judith|Segrest|4356 Watson Lane|Asheville|NC|28803|JudithMSegrest@einrot.com|828-779-3697|35.543622|-82.461695|686-03-9799
+865|Duane|Bailey|3153 Lee Avenue|Haddonfield|NJ|08033|DuanePBailey@gustr.com|856-354-7347|39.919706|-75.01065|147-62-1718
+866|Debbie|Guerrero|464 Bernardo Street|Prairie Creek|IN|47869|DebbieCGuerrero@dayrep.com|812-898-9246|39.431752|-87.49602|317-32-8818
+867|Miriam|Bolt|1843 Hardesty Street|Whitehall|NY|12887|MiriamTBolt@cuvox.de|518-499-6677|43.63207|-73.366713|104-70-5328
+868|Martha|Ybarra|1109 Findley Avenue|Mchenry|ND|58464|MarthaRYbarra@jourrapide.com|701-785-1941|47.588834|-98.610667|501-30-4999
+869|James|Brown|3899 Dane Street|Charlestown|MA|02129|JamesEBrown@gustr.com|508-986-5987|42.425193|-71.098301|017-80-8328
+870|Brandon|James|4692 Cityview Drive|Northampton|PA|18067|BrandonDJames@gustr.com|610-451-5705|40.808976|-75.465286|177-60-6133
+871|Christopher|Miller|3375 Still Pastures Drive|Charlotte|SC|28202|ChristopherEMiller@cuvox.de|803-487-5801|35.293005|-80.929377|657-09-2672
+872|Thelma|Lopez|2862 Walnut Hill Drive|Sharonville|OH|45241|ThelmaJLopez@gustr.com|513-258-0746|39.264184|-84.43656|293-72-5108
+873|Leonardo|Jones|3918 Baker Avenue|Dallas|TX|75234|LeonardoAJones@gustr.com|817-891-8233|32.960932|-96.864354|457-43-7001
+874|Jordan|Rivas|1848 Everette Alley|Fort Lauderdale|FL|33308|JordanFRivas@jourrapide.com|954-739-8851|26.158795|-80.186597|769-14-4745
+875|Deborah|Cuthbert|1862 Lodgeville Road|Minneapolis|MN|55402|DeborahPCuthbert@dayrep.com|612-318-8477|44.943173|-93.295928|469-13-0865
+876|Josephine|Stone|4057 Hood Avenue|La Mesa|CA|91941|JosephineJStone@rhyta.com|858-707-8536|32.736741|-117.028078|565-51-4749
+877|Marie|Taylor|845 Arron Smith Drive|Aiea|HI|96701|MarieGTaylor@fleckens.hu|808-485-8913|21.420587|-157.810264|576-15-1914
+878|Diane|Escobar|2639 Everette Alley|Hialeah|FL|33012|DianeBEscobar@rhyta.com|954-814-6959|25.923636|-80.345302|264-10-0796
+879|Charles|Polley|3891 Fowler Avenue|Gainesville|GA|30501|CharlesRPolley@fleckens.hu|770-287-2408|34.235423|-83.760061|253-48-1097
+880|Mohammad|Westerman|1189 Augusta Park|Alloy|WV|25002|MohammadHWesterman@rhyta.com|304-779-2215|38.177475|-81.285618|234-54-0114
+881|April|Long|2194 Stone Lane|King Of Prussia|PA|19406|AprilALong@dayrep.com|610-354-1437|40.182068|-75.379054|181-28-0631
+882|Phyllis|Halpin|4262 Fancher Drive|Dallas|TX|75247|PhyllisGHalpin@superrito.com|214-280-1795|32.897301|-96.901143|637-72-9644
+883|Denise|Brinker|4426 Ashwood Drive|Red Oak|IA|51566|DeniseRBrinker@armyspy.com|712-370-6462|40.938651|-95.303488|478-48-4844
+884|Humberto|Ohare|1052 Tea Berry Lane|Amberg|WI|54102|HumbertoTOhare@gustr.com|715-759-6554|45.451551|-87.963317|393-72-1714
+885|Angelia|Watkins|4804 Goldleaf Lane|Newark|NJ|07102|AngeliaGWatkins@gustr.com|201-564-3471|40.637682|-74.14008|156-09-4208
+886|Victor|Goff|4567 Haul Road|Daly City|CA|94015|VictorHGoff@cuvox.de|650-992-7241|37.77227|-122.564573|550-39-2689
+887|Justin|Stuart|1250 Park Boulevard|Urbandale|IA|50322|JustinAStuart@gustr.com|641-781-8900|41.533101|-93.70845|484-48-9505
+888|Gail|Williams|761 Golf Course Drive|Manassas|VA|22110|GailPWilliams@einrot.com|703-335-1357|38.824093|-77.491682|224-95-1591
+889|Theresa|Lovins|1591 Mandan Road|Monticello|MO|63457|TheresaRLovins@einrot.com|573-767-9740|40.215218|-91.635055|498-13-4080
+890|Beverly|Harden|1021 Willow Oaks Lane|New Iberia|LA|70560|BeverlyRHarden@gustr.com|337-367-8305|29.95746|-91.958823|436-55-6121
+891|Matthew|Cantrell|2534 Young Road|Weippe|ID|83553|MatthewSCantrell@rhyta.com|208-435-2324|46.357585|-115.912498|518-71-3789
+892|Carol|Felton|1983 Bungalow Road|Omaha|NE|68137|CarolDFelton@armyspy.com|402-871-9717|41.147553|-96.135647|505-29-9542
+893|Robert|Stark|3921 Andy Street|Wood|SD|57585|RobertDStark@einrot.com|605-452-3606|43.610803|-100.350371|503-60-7524
+894|Sandra|Bennett|3384 Simpson Square|Oklahoma City|OK|73109|SandraSBennett@cuvox.de|580-618-8731|35.514636|-97.56052|443-72-1171
+895|Eleanor|Moses|1106 Long Street|Gainesville|FL|32601|EleanorPMoses@rhyta.com|352-252-6726|29.59212|-82.310765|592-65-0367
+896|Jackie|Sanchez|1417 Hillhaven Drive|Santa Ana|CA|92705|JackieRSanchez@fleckens.hu|323-902-7352|33.724223|-117.798677|550-91-4280
+897|Arthur|Madison|2287 O Conner Street|Biloxi|MS|39531|ArthurEMadison@superrito.com|228-990-8548|30.490294|-88.941432|587-71-8546
+898|Kevin|Leavitt|3515 Crestview Manor|Indianapolis|IN|46240|KevinNLeavitt@fleckens.hu|317-256-1452|39.83397|-86.15459|310-11-7324
+899|Dolores|Long|4856 Willison Street|Minneapolis|MN|55415|DoloresJLong@einrot.com|763-238-9395|44.888455|-93.260242|477-07-8062
+900|Ramon|Armstrong|1045 Cooks Mine Road|Dexter|NM|88230|RamonLArmstrong@dayrep.com|505-734-7445|33.223734|-104.29727|585-74-6930
+901|Garland|Torres|1899 Mutton Town Road|Sequim|WA|98382|GarlandOTorres@superrito.com|360-683-0016|48.008289|-123.001536|533-22-7073
+902|Robert|McIntosh|1095 Shinn Avenue|Dawson|PA|15428|RobertLMcIntosh@cuvox.de|724-529-6387|40.148894|-79.75224|203-05-6532
+903|Terry|McCoy|1236 Wood Duck Drive|Michigamme|MI|49861|TerryEMcCoy@dayrep.com|906-323-6608|46.578957|-88.118854|373-07-5000
+904|Michael|Hoffer|2710 Chipmunk Lane|Warren|ME|04864|MichaelJHoffer@einrot.com|207-273-4315|44.054887|-69.247398|005-66-3848
+905|Albert|Gatlin|2611 Cerullo Road|Louisville|KY|40205|AlbertJGatlin@rhyta.com|502-454-6782|38.269816|-85.742621|401-88-7273
+906|Kyle|Polzin|4359 Simpson Square|Watonga|OK|73772|KyleMPolzin@teleworm.us|580-614-3954|35.808113|-98.437683|440-54-8912
+907|Joseph|Bash|2062 Stanton Hollow Road|Bedford|MA|01730|JosephDBash@rhyta.com|781-458-4695|42.405221|-71.297537|034-72-2453
+908|Janet|Locke|1229 North Street|Salt Lake City|UT|84104|JanetFLocke@fleckens.hu|435-215-2320|40.72275|-111.995211|529-35-4909
+909|Flossie|Bowman|2703 McKinley Avenue|Parker|CO|80134|FlossieDBowman@dayrep.com|303-805-0198|39.478851|-104.822246|523-29-2941
+910|Dianna|Williams|3783 Washburn Street|Baton Rouge|LA|70816|DiannaRWilliams@teleworm.us|225-298-7687|30.408538|-90.968539|439-69-6573
+911|Cesar|Clarke|250 Patton Lane|Benson|NC|27504|CesarCClarke@cuvox.de|919-207-1113|35.426685|-78.546749|683-09-9661
+912|Betty|Barlow|4597 Freed Drive|Murphys|CA|95247|BettyCBarlow@rhyta.com|209-728-6544|38.104058|-120.389458|618-04-7677
+913|Todd|Veney|4055 Watson Street|Vineland|NJ|08360|ToddDVeney@gustr.com|609-690-2421|39.496726|-74.962383|137-38-9161
+914|Jose|Spinks|678 Ruckman Road|Oklahoma City|OK|73110|JoseMSpinks@einrot.com|405-737-7484|35.369525|-97.423881|444-64-3094
+915|Jasmine|Garcia|616 Kemper Lane|West Valley City|UT|84120|JasmineBGarcia@rhyta.com|801-896-1741|40.602126|-112.031103|529-73-2849
+916|Sherry|Vincent|2855 Mahlon Street|New Brunswick|NJ|08901|SherryWVincent@gustr.com|732-945-3661|40.425181|-74.423302|149-30-6212
+917|Frank|Washington|2641 Dale Avenue|Auburn|WA|98002|FrankJWashington@gustr.com|253-735-6589|47.333662|-122.253222|533-43-1633
+918|Mary|Katz|3552 Spadafore Drive|Erie|PA|16509|MaryOKatz@dayrep.com|814-825-5412|42.133398|-79.990459|195-48-1878
+919|Spencer|Dray|1506 Olive Street|Toledo|OH|43602|SpencerPDray@gustr.com|419-351-7625|41.593252|-83.467716|299-80-4393
+920|Dorcas|Au|1329 Simpson Avenue|York|PA|17401|DorcasMAu@rhyta.com|717-855-7619|39.965945|-76.725039|185-09-1541
+921|Cory|Brooks|3420 Locust Court|Anaheim|CA|92805|CoryJBrooks@rhyta.com|562-478-3317|33.761979|-117.930237|623-90-1591
+922|Edward|Benton|940 Pinchelone Street|Virginia Beach|VA|23454|EdwardGBenton@gustr.com|757-395-8487|36.732932|-76.00403|231-42-7991
+923|Walter|Johnson|314 Bombardier Way|Southfield|MI|48075|WalterDJohnson@dayrep.com|734-873-3607|42.490429|-83.277585|385-44-2229
+924|Ernest|Lipscomb|1116 Locust Street|Cordele|GA|31015|ErnestSLipscomb@armyspy.com|229-805-1823|31.905459|-83.877751|671-16-4660
+925|Roger|Edwards|2772 Camden Place|Charleston|SC|29424|RogerKEdwards@cuvox.de|843-967-4062|32.730073|-79.965409|655-10-9329
+926|Mireille|Clark|2616 Simons Hollow Road|Tioga|PA|16946|MireilleRClark@gustr.com|570-835-4457|41.941156|-77.119331|180-78-5959
+927|John|Christian|2625 Lunetta Street|Clearwater|FL|34621|JohnHChristian@superrito.com|941-333-9106|27.93772|-82.779399|592-32-3858
+928|Tommie|House|4823 Elsie Drive|Mcintosh|SD|57641|TommieOHouse@fleckens.hu|605-273-2934|45.889222|-101.183264|503-86-9830
+929|Therese|Brown|2030 Aspen Court|Cambridge|MA|02141|ThereseMBrown@fleckens.hu|617-347-3159|42.332932|-71.060086|017-07-1817
+930|Cheryl|Waller|3787 Rose Avenue|Kenner|LA|70062|CherylPWaller@gustr.com|504-296-7327|29.996889|-90.342846|664-09-3182
+931|Mike|Lopez|1108 Lindale Avenue|Oakland|CA|94601|MikeCLopez@gustr.com|510-533-3983|37.749476|-122.275886|550-95-2843
+932|Anne|Maley|770 Union Street|Seattle|WA|98109|AnneJMaley@jourrapide.com|206-699-7928|47.625671|-122.318773|536-43-0924
+933|Carolyn|Garcia|406 Glendale Avenue|Fullerton|CA|93632|CarolynMGarcia@teleworm.us|818-625-0830|33.877906|-117.925991|563-58-7759
+934|Marvin|Daniels|732 Meadowbrook Mall Road|Culver City|CA|90232|MarvinKDaniels@cuvox.de|310-837-7007|33.994333|-118.413565|602-08-9118
+935|Pamela|Dimaggio|2187 Fidler Drive|Victoria|TX|77901|PamelaDDimaggio@fleckens.hu|210-600-7155|28.735761|-97.058417|640-48-2676
+936|Peggy|Goddard|4974 University Street|Seattle|WA|98109|PeggyNGoddard@einrot.com|206-400-5364|47.609024|-122.31226|539-15-6713
+937|Nelda|Walton|2405 Clover Drive|Burlington|CO|80807|NeldaRWalton@fleckens.hu|719-340-2498|39.305234|-102.164039|521-75-6403
+938|Jennifer|Vansickle|2307 Shadowmar Drive|Kenner|LA|70062|JenniferWVansickle@dayrep.com|504-914-0045|30.025683|-90.179517|663-03-4462
+939|Denise|Hall|332 Prospect Valley Road|Lomita|CA|90717|DeniseAHall@superrito.com|310-891-4170|33.833853|-118.361879|626-74-8124
+940|Edward|Mason|3708 Rollins Road|Gering|NE|69341|EdwardSMason@teleworm.us|308-990-4560|41.80472|-103.670114|505-84-9662
+941|Andrew|Gracia|1268 Rosewood Lane|New York|NY|10022|AndrewDGracia@einrot.com|212-909-7724|40.794721|-73.891299|060-92-1621
+942|Christie|Cruz|2481 Clousson Road|Houston|TX|77063|ChristieJCruz@dayrep.com|713-208-7822|29.742861|-95.57006|628-20-4913
+943|Charles|Ward|2105 Edwards Street|Rocky Mount|NC|27801|CharlesHWard@dayrep.com|252-677-6074|36.020062|-77.77669|239-07-7393
+944|Ruth|Atchley|278 Oakway Lane|Riverside|CA|92507|RuthBAtchley@fleckens.hu|818-336-4194|33.971587|-117.353422|602-38-1524
+945|Lourdes|Hoyt|941 Hillview Street|Denmark|SC|29042|LourdesDHoyt@armyspy.com|803-793-3304|33.327791|-81.176525|250-97-6613
+946|Robert|Davis|2701 Virginia Street|Lombard|IL|60148|RobertPDavis@jourrapide.com|773-567-7827|41.876646|-88.013658|329-04-5127
+947|Brenda|Ahlers|171 Coventry Court|Gulfport|MS|39501|BrendaSAhlers@superrito.com|228-258-0377|30.294185|-89.02694|425-49-4769
+948|Raymond|Brown|1292 Burwell Heights Road|Nederland|TX|77627|RaymondMBrown@gustr.com|409-720-5089|30.025864|-94.102509|643-88-1234
+949|Tyree|Peterson|3810 Snyder Avenue|Charlotte|NC|28202|TyreeAPeterson@dayrep.com|704-678-4533|35.198916|-80.818467|687-09-3517
+950|Amanda|Martinez|1727 Haven Lane|East Lansing|MI|48823|AmandaRMartinez@einrot.com|517-684-9565|42.664034|-84.47484|384-62-0801
+951|Nicole|Warren|1218 Golden Ridge Road|North Greenbush|NY|12144|NicoleJWarren@teleworm.us|518-339-1864|42.764033|-73.581367|098-90-1897
+952|Carrie|Denby|2509 Irving Road|Duffy|OH|43946|CarrieJDenby@dayrep.com|740-483-7463|41.128252|-83.300049|301-18-6445
+953|Tammy|Tharpe|113 Ripple Street|Saginaw|MI|48607|TammyRTharpe@teleworm.us|989-722-3844|43.492587|-84.025208|377-28-2572
+954|Ronda|Hale|767 Carriage Lane|Sugar Notch|PA|18706|RondaJHale@gustr.com|570-291-0804|41.273938|-75.900979|205-62-2197
+955|Patti|Smith|3544 West Fork Drive|Doral|FL|33166|PattiJSmith@fleckens.hu|954-502-8297|25.775182|-80.435781|768-24-3723
+956|Judy|Walton|4189 Clement Street|Atlanta|GA|30303|JudyRWalton@superrito.com|404-469-7772|33.722862|-84.462622|675-10-7298
+957|David|Norman|3857 Lewis Street|Chicago|IL|60606|DavidFNorman@armyspy.com|630-912-3284|41.954904|-87.606721|348-09-7845
+958|Bobbie|Gavin|172 Cliffside Drive|Binghamton|NY|13901|BobbieRGavin@dayrep.com|607-358-5691|42.149106|-75.907139|082-84-1689
+959|Thomas|Hebert|4640 Isaacs Creek Road|Decatur|IL|62522|ThomasGHebert@fleckens.hu|217-462-6087|39.745853|-89.037717|359-28-4627
+960|Brandy|Lewis|3795 Sumner Street|Playa Del Rey|CA|90291|BrandyCLewis@dayrep.com|310-578-0206|33.954503|-118.417496|605-32-3863
+961|Ian|Dutton|4354 Center Avenue|Fresno|CA|93721|IanIDutton@cuvox.de|559-486-3442|36.795566|-119.807822|624-84-1136
+962|Charles|Robertson|349 Sun Valley Road|Hunters|WA|99137|CharlesARobertson@teleworm.us|509-722-0677|48.080458|-118.114832|535-58-1467
+963|Maria|Tran|3703 Pheasant Ridge Road|Philadelphia|PA|19126|MariaDTran@einrot.com|215-548-0400|40.064415|-75.22312|164-58-3117
+964|James|Vanish|3610 Martha Street|Phoenix|AZ|85008|JamesEVanish@armyspy.com|928-710-1212|33.475385|-111.913644|764-03-3894
+965|Fay|Tucker|1692 Columbia Road|Philadelphia|DE|19103|FayJTucker@gustr.com|302-943-3112|40.024761|-75.100824|222-09-2154
+966|Warren|Crawford|4048 Cheshire Road|New Haven|CT|06510|WarrenBCrawford@fleckens.hu|203-436-1485|41.353353|-72.848167|049-88-2316
+967|Judy|Thornton|4061 Hillside Drive|Chataignier|LA|70524|JudyDThornton@gustr.com|337-885-6269|30.604888|-92.403254|433-84-7738
+968|Barbara|Greenwood|3325 West Virginia Avenue|Albany|NY|12207|BarbaraTGreenwood@superrito.com|518-956-5414|42.663765|-73.806614|058-18-1678
+969|Kim|Sims|1534 Frosty Lane|Canaseraga|NY|14822|KimJSims@dayrep.com|607-545-5470|42.449998|-77.897384|109-72-0287
+970|Elaine|Abrams|939 D Street|Southfield|MI|48075|ElaineLAbrams@einrot.com|586-354-0592|42.558458|-83.321252|376-07-9337
+971|Caroline|Cain|3383 Cherry Ridge Drive|Rochester|NY|14623|CarolineSCain@gustr.com|585-781-0102|43.095406|-77.58209|076-30-0292
+972|Lisa|May|3410 Valley Lane|Austin|TX|78723|LisaJMay@armyspy.com|512-674-8341|30.224152|-97.679181|458-27-7491
+973|Rhonda|Branton|4495 Southern Avenue|Des Moines|IA|50309|RhondaMBranton@jourrapide.com|641-433-6018|41.680718|-93.576371|485-19-7544
+974|Thomas|Morgan|3114 Washington Avenue|Jackson|MS|39211|ThomasNMorgan@einrot.com|601-952-3425|32.364327|-90.17714|428-29-4051
+975|Sharon|Chamberlain|4095 Bottom Lane|Buffalo|NY|14216|SharonKChamberlain@dayrep.com|716-801-0610|42.920284|-78.892395|121-40-7207
+976|Keith|Houghton|3469 Hudson Street|Newark|NJ|07102|KeithDHoughton@rhyta.com|973-982-7091|40.800647|-74.188655|147-16-1388
+977|Carolyn|Kauffman|1031 Fieldcrest Road|Mastic|NY|11950|CarolynSKauffman@gustr.com|631-878-6898|40.720365|-72.890078|061-88-3484
+978|Lisa|Redding|45 Dola Mine Road|Durham|NC|27707|LisaDRedding@superrito.com|919-419-8448|35.999007|-79.018621|245-26-0980
+979|Charles|Cockrell|3370 Randolph Street|Natick|MA|01760|CharlesNCockrell@superrito.com|508-653-3817|42.258642|-71.40264|012-12-1767
+980|Dana|Styles|1885 Khale Street|Burgess|SC|29576|DanaMStyles@gustr.com|843-581-0959|33.671362|-79.046716|248-26-8670
+981|Rick|Beltran|4168 University Hill Road|Fithian|IL|61844|RickWBeltran@armyspy.com|217-548-0970|40.2188|-87.942821|349-58-4367
+982|Margaret|Vanhouten|3812 Calvin Street|Hanover|MD|21076|MargaretVVanhouten@fleckens.hu|443-435-5685|39.27336|-76.727233|217-69-9467
+983|Steven|Nolan|2566 Alexander Avenue|Concord|CA|94520|StevenANolan@gustr.com|925-602-0690|37.912027|-121.959048|608-41-8441
+984|Mary|Furman|2862 Clay Street|Indianapolis|IN|46214|MaryWFurman@armyspy.com|317-370-2233|39.718316|-86.337511|303-03-5476
+985|Clifford|Robinson|984 Drummond Street|Clifton|NJ|07011|CliffordCRobinson@einrot.com|973-253-7354|40.890974|-74.148697|136-07-5728
+986|Samuel|McNeil|2754 Briarwood Road|Bradleyville|MO|65614|SamuelMMcNeil@dayrep.com|417-796-8435|36.772508|-92.861298|499-64-6667
+987|Tammy|Sebastian|1855 Roosevelt Road|Cottonwood Falls|KS|66845|TammyRSebastian@armyspy.com|620-273-6782|38.255528|-96.579996|515-64-6524
+988|Robert|Palmer|437 Veltri Drive|Livengood|AK|99701|RobertSPalmer@armyspy.com|907-295-9880|65.477942|-148.609881|574-92-8584
+989|Andrew|Walker|1666 Deer Ridge Drive|Morristown|NJ|07960|AndrewEWalker@armyspy.com|973-539-5338|40.688618|-74.471659|157-13-2358
+990|Kathy|Richie|3232 Buckhannan Avenue|Syracuse|NY|13202|KathyARichie@einrot.com|315-478-8040|42.977109|-76.197855|110-88-9319
+991|Marilyn|Smith|2154 Gordon Street|Ontario|CA|91762|MarilynWSmith@superrito.com|909-459-1098|34.060837|-117.683578|572-30-2687
+992|Lillian|Burnett|3288 Fancher Drive|Dallas|TX|75218|LillianBBurnett@teleworm.us|214-320-8018|32.864337|-96.776815|629-22-9740
+993|Christopher|Scott|1733 Rose Avenue|New Orleans|LA|70127|ChristopherCScott@teleworm.us|504-241-5694|30.054753|-89.948743|661-10-2604
+994|Catherine|Sutton|3944 Dancing Dove Lane|New York|NY|10011|CatherineMSutton@dayrep.com|347-451-9827|40.650298|-73.980787|053-58-9570
+995|Clara|Corbett|4761 Creekside Lane|San Luis Obispo|CA|93401|ClaraDCorbett@cuvox.de|805-694-7848|35.238186|-120.549514|561-01-3492
+996|John|Becraft|4111 Bottom Lane|Buffalo|NY|14214|JohnDBecraft@cuvox.de|716-803-0033|42.850763|-78.90569|071-58-3033
+997|Tanya|Marsh|2353 McDonald Avenue|Saint Cloud|FL|34769|TanyaKMarsh@dayrep.com|407-957-4576|28.21157|-81.217128|595-53-4540
+998|Geraldine|Robinson|212 Maple Avenue|Eagle|ID|83616|GeraldineRRobinson@cuvox.de|208-938-6059|43.864672|-116.432582|519-59-3914
+999|Bruce|Johnson|4612 Conaway Street|Bloomington|IN|47404|BruceDJohnson@gustr.com|812-418-7016|39.177341|-86.525187|316-44-5975
